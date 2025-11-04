@@ -2,7 +2,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 d/
-*.csv
+# *.csv
 *.sqlite
 *.db
 .env
