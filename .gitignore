@@ -9,6 +9,7 @@ d/
 .vscode/
 .DS_Store
 images/
+pokedex/
 Output_data/
 
 # add any large raw files you don't want in git
