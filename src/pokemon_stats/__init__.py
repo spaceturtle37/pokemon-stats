@@ -8,10 +8,10 @@ This makes reloads simple and predictable during development.
 """
 
 # Expose the submodule(s) — add other submodules here as needed
-from . import viz, pca_utils, poke_colors
+from . import viz, pca_utils, poke_colors, mat_utils
 
 # Public API (visible when doing `from pokemon_stats import *`)
-__all__ = ["viz", "pca_utils", "poke_colors"]
+__all__ = ["viz", "pca_utils", "poke_colors", "mat_utils"]
 
 # Optional: package version (useful if you manage versions)
 # __version__ = "0.0.0"

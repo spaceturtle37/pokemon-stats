@@ -1,6 +1,5 @@
 # save color palettes for consistency accross all the jupyternotebooks
 
-
 # Color HEX values for pokemon types
 # https://gist.github.com/apaleslimghost/0d25ec801ca4fc43317bcff298af43c3
 # more in depth future possible variations to tinker with
@@ -20,12 +19,30 @@ color_types = {
 	'Flying': '#A98FF3',
 	'Psychic': '#F95587',
 	'Bug': '#A6B91A',
-	'rock': '#B6A136',
+	'Rock': '#B6A136',
 	'Ghost': '#735797',
 	'Dragon': '#6F35FC',
 	'Dark': '#705746',
 	'Steel': '#B7B7CE',
 	'Fairy': '#D685AD',
+    'normal': '#A8A77A',
+    'fire': '#EE8130',
+    'water': '#6390F0',
+    'electric': '#F7D02C',
+    'grass': '#7AC74C',
+    'ice': '#96D9D6',
+    'fighting': '#C22E28',
+    'poison': '#A33EA1',
+    'ground': '#E2BF65',
+    'flying': '#A98FF3',
+    'psychic': '#F95587',
+    'bug': '#A6B91A',
+    'rock': '#B6A136',
+    'ghost': '#735797',
+    'dragon': '#6F35FC',
+    'dark': '#705746',
+    'steel': '#B7B7CE',
+    'fairy': '#D685AD',
 };
 
 
@@ -58,7 +75,7 @@ color_pca = dict(zip(color_keys, color_hexes))
 
 
 # set -up default color palette when none is given
-color_keys = [i for in range(6)]
+color_keys = [i for i in range(6)]
 colors_hexes = [
     '#008000',  # green
     '#800000',  # maroon
@@ -69,4 +86,11 @@ colors_hexes = [
 ]
 color_default = dict(zip(color_keys, color_hexes))
 
+
+# put all dictionaries into a dictionary
+color_dics = {
+    "types": color_types,
+    "stats": color_stats,
+    "pca": color_pca,
+} 
 

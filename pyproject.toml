@@ -17,4 +17,5 @@ dependencies = [
     "graphviz",
     "networkx",
     "plotly",
+    "lxml",
 ]
