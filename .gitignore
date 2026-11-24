@@ -11,5 +11,6 @@ d/
 images/
 pokedex/
 Output_data/
-
+.vscode/settings.json
+Test/
 # add any large raw files you don't want in git
