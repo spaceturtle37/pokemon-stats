@@ -380,6 +380,13 @@ body {
     letter-spacing: 1px;
 }
 
+#color-legend-label {
+    color: #65d6d1;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin: 0 0 8px 4px;
+}
+
 #chart {
     position: relative;
     display: block;
@@ -390,6 +397,50 @@ body {
 
     color: var(--muted);
 }
+
+
+#chart-container {
+    position: relative;
+    width: 100%;
+}
+
+.pokemon-hover-card {
+    display: none;
+    position: absolute;
+    z-index: 100;
+    width: 220px;
+    padding: 14px;
+    background: #152338;
+    border: 1px solid #65d6d1;
+    border-radius: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+    pointer-events: none;
+}
+
+.pokemon-hover-card img {
+    display: block;
+    width: 130px;
+    height: 130px;
+    object-fit: contain;
+    margin: 0 auto 10px;
+}
+
+.hover-pokemon-info {
+    text-align: center;
+}
+
+.hover-pokemon-info h3 {
+    color: #ffffff;
+    font-size: 1.1rem;
+    margin: 0 0 4px;
+}
+
+.hover-pokemon-info p {
+    color: #c5d0de;
+    font-size: 0.85rem;
+    margin: 4px 0;
+}
+
 
 .chart-panel {
     min-width: 0;

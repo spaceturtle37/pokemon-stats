@@ -1,0 +1,4102 @@
+{
+    "bulbasaur": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ivysaur": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "venusaur": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "charmander": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "charmeleon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "charizard": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "squirtle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wartortle": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "blastoise": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "caterpie": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "metapod": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "butterfree": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "weedle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kakuna": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "beedrill": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "pidgey": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pidgeotto": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pidgeot": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "rattata": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "raticate": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "spearow": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "fearow": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ekans": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arbok": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pichu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pikachu": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "raichu": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "sandshrew": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sandslash": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "nidoran-f": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "nidorina": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "nidoqueen": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "nidoran-m": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "nidorino": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "nidoking": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cleffa": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "clefairy": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "clefable": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "vulpix": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ninetales": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "igglybuff": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "jigglypuff": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wigglytuff": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "zubat": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "golbat": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "crobat": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "oddish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gloom": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "vileplume": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "bellossom": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "paras": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "parasect": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "venonat": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "venomoth": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "diglett": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dugtrio": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "meowth": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "persian": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "perrserker": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "psyduck": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "golduck": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mankey": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "primeape": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "annihilape": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "growlithe": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arcanine": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "poliwag": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "poliwhirl": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "poliwrath": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "politoed": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "abra": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kadabra": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "alakazam": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "machop": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "machoke": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "machamp": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "bellsprout": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "weepinbell": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "victreebel": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tentacool": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tentacruel": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "geodude": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "graveler": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "golem": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "ponyta": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rapidash": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "slowpoke": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "slowbro": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "slowking": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "magnemite": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "magneton": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "magnezone": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "farfetchd": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sirfetchd": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "doduo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dodrio": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "seel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dewgong": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "grimer": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "muk": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shellder": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cloyster": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gastly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "haunter": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gengar": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "onix": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "steelix": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "drowzee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hypno": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "krabby": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kingler": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "voltorb": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "electrode": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "exeggcute": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "exeggutor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cubone": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "marowak": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tyrogue": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hitmonlee": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hitmonchan": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hitmontop": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "lickitung": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lickilicky": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "koffing": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "weezing": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rhyhorn": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rhydon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rhyperior": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "happiny": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chansey": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "blissey": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tangela": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tangrowth": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kangaskhan": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "horsea": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "seadra": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kingdra": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "goldeen": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "seaking": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "staryu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "starmie": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mime-jr": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mr-mime": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mr-rime": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "scyther": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "scizor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kleavor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "smoochum": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "jynx": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "elekid": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "electabuzz": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "electivire": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "magby": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "magmar": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "magmortar": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "pinsir": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tauros": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "magikarp": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gyarados": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "lapras": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ditto": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "eevee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "vaporeon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "jolteon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "flareon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "espeon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "umbreon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "leafeon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "glaceon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sylveon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "porygon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "porygon2": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "porygon-z": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "omanyte": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "omastar": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kabuto": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kabutops": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "aerodactyl": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "munchlax": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "snorlax": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "articuno": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zapdos": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "moltres": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dratini": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dragonair": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dragonite": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "mewtwo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mew": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chikorita": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bayleef": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "meganium": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cyndaquil": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "quilava": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "typhlosion": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "totodile": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "croconaw": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "feraligatr": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "sentret": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "furret": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hoothoot": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "noctowl": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ledyba": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ledian": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "spinarak": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ariados": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "chinchou": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lanturn": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "togepi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "togetic": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "togekiss": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "natu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "xatu": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mareep": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "flaaffy": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ampharos": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "azurill": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "marill": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "azumarill": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "bonsly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sudowoodo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hoppip": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "skiploom": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "jumpluff": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "aipom": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ambipom": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sunkern": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sunflora": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "yanma": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "yanmega": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wooper": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "quagsire": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "clodsire": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "murkrow": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "honchkrow": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "misdreavus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mismagius": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "unown": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wynaut": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wobbuffet": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "girafarig": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "farigiraf": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pineco": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "forretress": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dunsparce": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dudunsparce": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gligar": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gliscor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "snubbull": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "granbull": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "qwilfish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "overqwil": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shuckle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "heracross": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sneasel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "weavile": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sneasler": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "teddiursa": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ursaring": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ursaluna": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "slugma": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "magcargo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "swinub": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "piloswine": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mamoswine": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "corsola": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cursola": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "remoraid": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "octillery": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "delibird": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mantyke": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mantine": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "skarmory": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "houndour": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "houndoom": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "phanpy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "donphan": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stantler": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wyrdeer": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "smeargle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "miltank": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "raikou": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "entei": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "suicune": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "larvitar": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pupitar": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tyranitar": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "lugia": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ho-oh": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "celebi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "treecko": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "grovyle": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sceptile": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "torchic": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "combusken": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "blaziken": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "mudkip": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "marshtomp": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "swampert": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "poochyena": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mightyena": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "zigzagoon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "linoone": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "obstagoon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "wurmple": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "silcoon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "beautifly": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cascoon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dustox": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "lotad": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lombre": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ludicolo": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "seedot": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "nuzleaf": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shiftry": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "taillow": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "swellow": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wingull": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pelipper": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ralts": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kirlia": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gardevoir": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "gallade": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "surskit": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "masquerain": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shroomish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "breloom": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "slakoth": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "vigoroth": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "slaking": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "nincada": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ninjask": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shedinja": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "whismur": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "loudred": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "exploud": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "makuhita": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hariyama": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "nosepass": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "probopass": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "skitty": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "delcatty": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sableye": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mawile": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "aron": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lairon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "aggron": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "meditite": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "medicham": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "electrike": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "manectric": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "plusle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "minun": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "volbeat": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "illumise": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "budew": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "roselia": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "roserade": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "gulpin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "swalot": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "carvanha": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sharpedo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wailmer": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wailord": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "numel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "camerupt": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "torkoal": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "spoink": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "grumpig": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "spinda": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "trapinch": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "vibrava": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "flygon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cacnea": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cacturne": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "swablu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "altaria": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "zangoose": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "seviper": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lunatone": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "solrock": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "barboach": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "whiscash": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "corphish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "crawdaunt": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "baltoy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "claydol": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "lileep": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cradily": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "anorith": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "armaldo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "feebas": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "milotic": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "castform": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kecleon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "shuppet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "banette": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "duskull": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dusclops": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dusknoir": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tropius": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chingling": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chimecho": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "absol": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "snorunt": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "glalie": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "froslass": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "spheal": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sealeo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "walrein": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "clamperl": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "huntail": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gorebyss": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "relicanth": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "luvdisc": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bagon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "shelgon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "salamence": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "beldum": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "metang": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "metagross": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "regirock": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "regice": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "registeel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "latias": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "latios": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kyogre": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "groudon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rayquaza": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "jirachi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "deoxys": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "turtwig": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "grotle": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "torterra": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "chimchar": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "monferno": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "infernape": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "piplup": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "prinplup": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "empoleon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "starly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "staravia": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "staraptor": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "bidoof": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bibarel": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kricketot": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kricketune": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shinx": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "luxio": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "luxray": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cranidos": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rampardos": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shieldon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bastiodon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "burmy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wormadam": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mothim": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "combee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "vespiquen": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pachirisu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "buizel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "floatzel": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cherubi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cherrim": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shellos": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gastrodon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "drifloon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "drifblim": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "buneary": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lopunny": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "glameow": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "purugly": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stunky": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "skuntank": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "bronzor": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bronzong": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "chatot": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "spiritomb": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gible": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gabite": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "garchomp": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "riolu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lucario": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hippopotas": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hippowdon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "skorupi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "drapion": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "croagunk": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "toxicroak": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "carnivine": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "finneon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lumineon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "snover": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "abomasnow": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rotom": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "uxie": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mesprit": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "azelf": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dialga": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "palkia": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "heatran": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "regigigas": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "giratina": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cresselia": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "phione": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "manaphy": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "darkrai": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "shaymin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arceus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "victini": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "snivy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "servine": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "serperior": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tepig": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pignite": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "emboar": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "oshawott": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dewott": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "samurott": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "patrat": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "watchog": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "lillipup": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "herdier": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stoutland": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "purrloin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "liepard": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pansage": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "simisage": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pansear": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "simisear": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "panpour": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "simipour": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "munna": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "musharna": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pidove": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tranquill": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "unfezant": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "blitzle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zebstrika": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "roggenrola": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "boldore": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gigalith": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "woobat": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "swoobat": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "drilbur": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "excadrill": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "audino": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "timburr": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gurdurr": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "conkeldurr": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tympole": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "palpitoad": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "seismitoad": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "throh": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sawk": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sewaddle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "swadloon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "leavanny": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "venipede": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "whirlipede": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "scolipede": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cottonee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "whimsicott": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "petilil": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lilligant": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "basculin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "basculegion": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sandile": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "krokorok": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "krookodile": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "darumaka": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "darmanitan": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "maractus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dwebble": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "crustle": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "scraggy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "scrafty": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sigilyph": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "yamask": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cofagrigus": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "runerigus": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tirtouga": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "carracosta": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "archen": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "archeops": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "trubbish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "garbodor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "zorua": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zoroark": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "minccino": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cinccino": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gothita": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gothorita": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gothitelle": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "solosis": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "duosion": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "reuniclus": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "ducklett": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "swanna": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "vanillite": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "vanillish": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "vanilluxe": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "deerling": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sawsbuck": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "emolga": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "karrablast": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "escavalier": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "foongus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "amoonguss": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "frillish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "jellicent": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "alomomola": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "joltik": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "galvantula": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ferroseed": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ferrothorn": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "klink": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "klang": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "klinklang": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tynamo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "eelektrik": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "eelektross": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "elgyem": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "beheeyem": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "litwick": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lampent": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "chandelure": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "axew": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "fraxure": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "haxorus": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "cubchoo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "beartic": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cryogonal": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "shelmet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "accelgor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stunfisk": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mienfoo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mienshao": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "druddigon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "golett": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "golurk": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pawniard": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bisharp": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kingambit": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "bouffalant": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rufflet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "braviary": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "vullaby": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mandibuzz": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "heatmor": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "durant": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "deino": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zweilous": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hydreigon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "larvesta": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "volcarona": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cobalion": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "terrakion": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "virizion": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tornadus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "thundurus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "reshiram": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zekrom": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "landorus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kyurem": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "keldeo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "meloetta": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "genesect": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chespin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "quilladin": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "chesnaught": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "fennekin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "braixen": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "delphox": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "froakie": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "frogadier": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "greninja": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "bunnelby": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "diggersby": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "fletchling": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "fletchinder": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "talonflame": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "scatterbug": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "spewpa": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "vivillon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "litleo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pyroar": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "flabebe": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "floette": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "florges": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "skiddo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gogoat": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pancham": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pangoro": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "furfrou": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "espurr": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "meowstic": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "honedge": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "doublade": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "aegislash": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "spritzee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "aromatisse": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "swirlix": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "slurpuff": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "inkay": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "malamar": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "binacle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "barbaracle": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "skrelp": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dragalge": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "clauncher": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "clawitzer": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "helioptile": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "heliolisk": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tyrunt": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tyrantrum": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "amaura": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "aurorus": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hawlucha": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dedenne": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "carbink": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "goomy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sliggoo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "goodra": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "klefki": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "phantump": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "trevenant": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pumpkaboo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gourgeist": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "bergmite": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "avalugg": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "noibat": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "noivern": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "xerneas": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "yveltal": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zygarde": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "diancie": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hoopa": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "volcanion": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rowlet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dartrix": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "decidueye": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "litten": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "torracat": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "incineroar": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "popplio": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "brionne": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "primarina": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "pikipek": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "trumbeak": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "toucannon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "yungoos": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gumshoos": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "grubbin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "charjabug": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "vikavolt": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "crabrawler": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "crabominable": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "oricorio": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cutiefly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ribombee": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rockruff": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lycanroc": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wishiwashi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mareanie": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "toxapex": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "mudbray": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mudsdale": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dewpider": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "araquanid": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "fomantis": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lurantis": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "morelull": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "shiinotic": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "salandit": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "salazzle": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stufful": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bewear": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "bounsweet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "steenee": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tsareena": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "comfey": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "oranguru": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "passimian": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wimpod": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "golisopod": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sandygast": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "palossand": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pyukumuku": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "type-null": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "silvally": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "minior": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "komala": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "turtonator": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "togedemaru": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mimikyu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bruxish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "drampa": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dhelmise": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "jangmo-o": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hakamo-o": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "kommo-o": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tapu-koko": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tapu-lele": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tapu-bulu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tapu-fini": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cosmog": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cosmoem": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "solgaleo": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "lunala": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "nihilego": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "buzzwole": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pheromosa": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "xurkitree": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "celesteela": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kartana": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "guzzlord": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "necrozma": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "magearna": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "marshadow": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "poipole": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "naganadel": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stakataka": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "blacephalon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zeraora": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "meltan": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "melmetal": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "grookey": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "thwackey": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rillaboom": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "scorbunny": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "raboot": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cinderace": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "sobble": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "drizzile": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "inteleon": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "skwovet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "greedent": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rookidee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "corvisquire": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "corviknight": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "blipbug": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dottler": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "orbeetle": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "nickit": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "thievul": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "gossifleur": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "eldegoss": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wooloo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dubwool": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "chewtle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "drednaw": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "yamper": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "boltund": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rolycoly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "carkol": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "coalossal": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "applin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "flapple": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "appletun": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dipplin": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hydrapple": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "silicobra": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sandaconda": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cramorant": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arrokuda": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "barraskewda": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "toxel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "toxtricity": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sizzlipede": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "centiskorch": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "clobbopus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "grapploct": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "sinistea": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "polteageist": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hatenna": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "hattrem": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "hatterene": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "impidimp": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "morgrem": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "grimmsnarl": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "milcery": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "alcremie": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "falinks": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pincurchin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "snom": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "frosmoth": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "stonjourner": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "eiscue": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "indeedee": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "morpeko": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cufant": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "copperajah": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dracozolt": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arctozolt": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dracovish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arctovish": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "duraludon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "archaludon": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dreepy": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "drakloak": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "dragapult": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "zacian": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "zamazenta": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "eternatus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kubfu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "urshifu": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "zarude": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "regieleki": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "regidrago": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "glastrier": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "spectrier": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "calyrex": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "enamorus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sprigatito": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "floragato": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "meowscarada": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "fuecoco": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "crocalor": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "skeledirge": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "quaxly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "quaxwell": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "quaquaval": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "lechonk": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "oinkologne": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tarountula": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "spidops": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "nymble": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "lokix": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pawmi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pawmo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "pawmot": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "tandemaus": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "maushold": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "fidough": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dachsbun": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "smoliv": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dolliv": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "arboliva": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "squawkabilly": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "nacli": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "naclstack": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "garganacl": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "charcadet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "armarouge": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "ceruledge": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tadbulb": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "bellibolt": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wattrel": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "kilowattrel": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "maschiff": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "mabosstiff": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "shroodle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "grafaiai": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "bramblin": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "brambleghast": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "toedscool": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "toedscruel": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "klawf": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "capsakid": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "scovillain": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "rellor": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "rabsca": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "flittle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "espathra": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tinkatink": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tinkatuff": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "tinkaton": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "wiglett": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "wugtrio": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "bombirdier": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "finizen": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "palafin": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "varoom": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "revavroom": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "cyclizar": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "orthworm": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "glimmet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "glimmora": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "greavard": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "houndstone": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "flamigo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cetoddle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "cetitan": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "veluza": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "dondozo": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "tatsugiri": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "great-tusk": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "scream-tail": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "brute-bonnet": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "flutter-mane": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "slither-wing": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sandy-shocks": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-treads": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-bundle": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-hands": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-jugulis": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-moth": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-thorns": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "frigibax": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "arctibax": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "baxcalibur": {
+        "Stage": 3,
+        "Number of Stages": 0
+    },
+    "gimmighoul": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gholdengo": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "wo-chien": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chien-pao": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ting-lu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "chi-yu": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "roaring-moon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-valiant": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "koraidon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "miraidon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "walking-wake": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-leaves": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "poltchageist": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "sinistcha": {
+        "Stage": 2,
+        "Number of Stages": 0
+    },
+    "okidogi": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "munkidori": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "fezandipiti": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "ogerpon": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "gouging-fire": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "raging-bolt": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-crown": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "iron-boulder": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "terapagos": {
+        "Stage": 1,
+        "Number of Stages": 0
+    },
+    "pecharunt": {
+        "Stage": 1,
+        "Number of Stages": 0
+    }
+}

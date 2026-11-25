@@ -89,12 +89,6 @@ function initializeDashboard() {
     document.getElementById("secondary-type-filter").value = "all";
     document.getElementById("type-count-filter").value = "all";
 
-    document.getElementById("type-filter").add(
-        new Option("All Types", "all"),
-        0
-    );
-
-    document.getElementById("type-filter").value = "all";
     document.getElementById("secondary-type-filter")
         .addEventListener("change", updateChart);
 
@@ -143,6 +137,70 @@ function initializeDashboard() {
 
     updateChart();
 }
+
+
+function initializePokemonHover() {
+
+    const chart = document.getElementById("chart");
+    if (chart._pokemonHoverInitialized) return;
+    chart._pokemonHoverInitialized = true;
+
+    const card = document.getElementById("pokemon-hover-card");
+
+    const image = document.getElementById("hover-pokemon-image");
+    const name = document.getElementById("hover-pokemon-name");
+    const number = document.getElementById("hover-pokemon-number");
+    const types = document.getElementById("hover-pokemon-types");
+    const total = document.getElementById("hover-pokemon-total");
+
+    chart.on("plotly_hover", event => {
+
+        const point = event.points[0];
+        const pokemon = point.customdata;
+
+        image.src = pokemon[9];
+        name.textContent = point.text;
+        number.textContent = `Pokédex #${pokemon[10]}`;
+        types.textContent = `${pokemon[0]}${pokemon[1] ? " / " + pokemon[1] : ""}`;
+        total.textContent = `Total Stats: ${pokemon[2]}`;
+
+        // Position the card near the hovered point.
+        const chartRect = chart.getBoundingClientRect();
+
+        const x = chart._fullLayout.xaxis.l2p(point.x) +
+                  chart._fullLayout.margin.l;
+
+        const y = chart._fullLayout.yaxis.l2p(point.y) +
+                  chart._fullLayout.margin.t;
+
+        const cardWidth = card.offsetWidth;
+        const cardHeight = card.offsetHeight;
+
+        let left = x + 15;
+        let top = y - cardHeight / 2;
+
+        if (left + cardWidth > chart.clientWidth) {
+            left = x - cardWidth - 15;
+        }
+
+        if (top < 0) {
+            top = 5;
+        }
+
+        if (top + cardHeight > chart.clientHeight) {
+            top = chart.clientHeight - cardHeight - 5;
+        }
+
+        card.style.left = `${left}px`;
+        card.style.top = `${top}px`;
+        card.style.display = "block";
+    });
+
+    chart.on("plotly_unhover", () => {
+        card.style.display = "none";
+    });
+}
+
 
 
 // =========================================
@@ -281,16 +339,75 @@ function updateMetrics(data) {
 // SCATTER PLOT
 // =========================================
 
+
 function drawScatter(data) {
 
     const xStat = document.getElementById("x-axis").value;
     const yStat = document.getElementById("y-axis").value;
 
+    const selectedPrimary =
+        document.getElementById("type-filter").value;
+
+    const selectedSecondary =
+        document.getElementById("secondary-type-filter").value;
+
+
+    // Update the color explanation label.
+    let colorLabel = "Point colors: Primary Type";
+
+    if (selectedPrimary !== "all" &&
+        selectedSecondary !== "all") {
+
+        colorLabel = "Point colors: Complementary Type";
+
+    } else if (selectedPrimary !== "all") {
+
+        //colorLabel = `Point colors: Other Type (relative to ${selectedPrimary})`;
+        colorLabel = `Point colors: Other Type (if Dualtype), else ${selectedPrimary} (if Singletype)`;
+
+    } else if (selectedSecondary !== "all") {
+
+        //colorLabel = `Point colors: Primary Type (relative to ${selectedSecondary})`;
+        colorLabel = `Point colors: Other Type (if Dualtype), else ${selectedSecondary} (if Singletype)`;
+    }
+
+    document.getElementById("color-legend-label").textContent =
+        colorLabel;
+
+    // Determine which type should control point colors.
+    function getDisplayType(pokemon) {
+
+        const type1 = pokemon["Type 1"];
+        const type2 = pokemon["Type 2"];
+
+        if (selectedPrimary !== "all" &&
+            selectedSecondary !== "all") {
+
+            // Both types are specified: show the complementary type.
+            return type1 === selectedPrimary ? type2 : type1;
+        }
+
+        if (selectedPrimary !== "all") {
+
+            // Primary type selected: show secondary type if available.
+            return type2 || type1;
+        }
+
+        if (selectedSecondary !== "all") {
+
+            // Secondary type selected: show primary type.
+            return type1;
+        }
+
+        // No type filter: retain the original Type 1 coloring.
+        return type1;
+    }
+
     const typeGroups = {};
 
     data.forEach(pokemon => {
 
-        const type = pokemon["Type 1"];
+        const type = getDisplayType(pokemon);
 
         if (!typeGroups[type]) {
             typeGroups[type] = [];
@@ -316,7 +433,9 @@ function drawScatter(data) {
                 p.Defense,
                 p["Sp. Atk"],
                 p["Sp. Def"],
-                p.Speed
+                p.Speed,
+                p.Image,
+                p["Pokedex Number"],
             ]),
 
             mode: "markers",
@@ -333,6 +452,8 @@ function drawScatter(data) {
                 }
             },
 
+            hoverinfo: "none"
+            /*
             hovertemplate:
                 "<b>%{text}</b><br>" +
                 "Type: %{customdata[0]} %{customdata[1]}<br>" +
@@ -344,6 +465,7 @@ function drawScatter(data) {
                 "Sp. Def: %{customdata[7]}<br>" +
                 "Speed: %{customdata[8]}" +
                 "<extra></extra>"
+                */
         })
     );
 
@@ -395,8 +517,11 @@ function drawScatter(data) {
     Plotly.react("chart", traces, layout, {
         responsive: true,
         displaylogo: false
+    }).then(() => {
+        initializePokemonHover();
     });
 }
+
 
 
 // =========================================
