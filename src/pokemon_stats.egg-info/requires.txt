@@ -6,3 +6,4 @@ seaborn
 graphviz
 networkx
 plotly
+lxml

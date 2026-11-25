@@ -1,0 +1,1220 @@
+Pokedex Number,Name,Type,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Image File Number,Image File Path,Pokemon ID,isMega
+1,Bulbasaur,Grass  Poison,318,45,49,49,65,65,45,1,images/1.png,bulbasaur,False
+2,Ivysaur,Grass  Poison,405,60,62,63,80,80,60,2,images/2.png,ivysaur,False
+3,Venusaur,Grass  Poison,525,80,82,83,100,100,80,3,images/3.png,venusaur,False
+3,Venusaur  Mega Venusaur,Grass  Poison,625,80,100,123,122,120,80,4,images/4.png,venusaur-mega,True
+4,Charmander,Fire,309,39,52,43,60,50,65,5,images/5.png,charmander,False
+5,Charmeleon,Fire,405,58,64,58,80,65,80,6,images/6.png,charmeleon,False
+6,Charizard,Fire  Flying,534,78,84,78,109,85,100,7,images/7.png,charizard,False
+6,Charizard  Mega Charizard X,Fire  Dragon,634,78,130,111,130,85,100,8,images/8.png,charizard-mega-x,True
+6,Charizard  Mega Charizard Y,Fire  Flying,634,78,104,78,159,115,100,9,images/9.png,charizard-mega-y,True
+7,Squirtle,Water,314,44,48,65,50,64,43,10,images/10.png,squirtle,False
+8,Wartortle,Water,405,59,63,80,65,80,58,11,images/11.png,wartortle,False
+9,Blastoise,Water,530,79,83,100,85,105,78,12,images/12.png,blastoise,False
+9,Blastoise  Mega Blastoise,Water,630,79,103,120,135,115,78,13,images/13.png,blastoise-mega,True
+10,Caterpie,Bug,195,45,30,35,20,20,45,14,images/14.png,caterpie,False
+11,Metapod,Bug,205,50,20,55,25,25,30,15,images/15.png,metapod,False
+12,Butterfree,Bug  Flying,395,60,45,50,90,80,70,16,images/16.png,butterfree,False
+13,Weedle,Bug  Poison,195,40,35,30,20,20,50,17,images/17.png,weedle,False
+14,Kakuna,Bug  Poison,205,45,25,50,25,25,35,18,images/18.png,kakuna,False
+15,Beedrill,Bug  Poison,395,65,90,40,45,80,75,19,images/19.png,beedrill,False
+15,Beedrill  Mega Beedrill,Bug  Poison,495,65,150,40,15,80,145,20,images/20.png,beedrill-mega,True
+16,Pidgey,Normal  Flying,251,40,45,40,35,35,56,21,images/21.png,pidgey,False
+17,Pidgeotto,Normal  Flying,349,63,60,55,50,50,71,22,images/22.png,pidgeotto,False
+18,Pidgeot,Normal  Flying,479,83,80,75,70,70,101,23,images/23.png,pidgeot,False
+18,Pidgeot  Mega Pidgeot,Normal  Flying,579,83,80,80,135,80,121,24,images/24.png,pidgeot-mega,True
+19,Rattata,Normal,253,30,56,35,25,35,72,25,images/25.png,rattata,False
+19,Rattata  Alolan Rattata,Dark  Normal,253,30,56,35,25,35,72,26,images/26.png,rattata-alolan-rattata,False
+20,Raticate,Normal,413,55,81,60,50,70,97,27,images/27.png,raticate,False
+20,Raticate  Alolan Raticate,Dark  Normal,413,75,71,70,40,80,77,28,images/28.png,raticate-alolan-raticate,False
+21,Spearow,Normal  Flying,262,40,60,30,31,31,70,29,images/29.png,spearow,False
+22,Fearow,Normal  Flying,442,65,90,65,61,61,100,30,images/30.png,fearow,False
+23,Ekans,Poison,288,35,60,44,40,54,55,31,images/31.png,ekans,False
+24,Arbok,Poison,448,60,95,69,65,79,80,32,images/32.png,arbok,False
+25,Pikachu,Electric,320,35,55,40,50,50,90,33,images/33.png,pikachu,False
+25,Pikachu  Partner Pikachu,Electric,430,45,80,50,75,60,120,34,images/34.png,pikachu-partner-pikachu,False
+26,Raichu,Electric,485,60,90,55,90,80,110,35,images/35.png,raichu,False
+26,Raichu  Alolan Raichu,Electric  Psychic,485,60,85,50,95,85,110,36,images/36.png,raichu-alolan-raichu,False
+27,Sandshrew,Ground,300,50,75,85,20,30,40,37,images/37.png,sandshrew,False
+27,Sandshrew  Alolan Sandshrew,Ice  Steel,300,50,75,90,10,35,40,38,images/38.png,sandshrew-alolan-sandshrew,False
+28,Sandslash,Ground,450,75,100,110,45,55,65,39,images/39.png,sandslash,False
+28,Sandslash  Alolan Sandslash,Ice  Steel,450,75,100,120,25,65,65,40,images/40.png,sandslash-alolan-sandslash,False
+29,Nidoran♀,Poison,275,55,47,52,40,40,41,41,images/41.png,nidoran-female,False
+30,Nidorina,Poison,365,70,62,67,55,55,56,42,images/42.png,nidorina,False
+31,Nidoqueen,Poison  Ground,505,90,92,87,75,85,76,43,images/43.png,nidoqueen,False
+32,Nidoran♂,Poison,273,46,57,40,40,40,50,44,images/44.png,nidoran-male,False
+33,Nidorino,Poison,365,61,72,57,55,55,65,45,images/45.png,nidorino,False
+34,Nidoking,Poison  Ground,505,81,102,77,85,75,85,46,images/46.png,nidoking,False
+35,Clefairy,Fairy,323,70,45,48,60,65,35,47,images/47.png,clefairy,False
+36,Clefable,Fairy,483,95,70,73,95,90,60,48,images/48.png,clefable,False
+37,Vulpix,Fire,299,38,41,40,50,65,65,49,images/49.png,vulpix,False
+37,Vulpix  Alolan Vulpix,Ice,299,38,41,40,50,65,65,50,images/50.png,vulpix-alolan-vulpix,False
+38,Ninetales,Fire,505,73,76,75,81,100,100,51,images/51.png,ninetales,False
+38,Ninetales  Alolan Ninetales,Ice  Fairy,505,73,67,75,81,100,109,52,images/52.png,ninetales-alolan-ninetales,False
+39,Jigglypuff,Normal  Fairy,270,115,45,20,45,25,20,53,images/53.png,jigglypuff,False
+40,Wigglytuff,Normal  Fairy,435,140,70,45,85,50,45,54,images/54.png,wigglytuff,False
+41,Zubat,Poison  Flying,245,40,45,35,30,40,55,55,images/55.png,zubat,False
+42,Golbat,Poison  Flying,455,75,80,70,65,75,90,56,images/56.png,golbat,False
+43,Oddish,Grass  Poison,320,45,50,55,75,65,30,57,images/57.png,oddish,False
+44,Gloom,Grass  Poison,395,60,65,70,85,75,40,58,images/58.png,gloom,False
+45,Vileplume,Grass  Poison,490,75,80,85,110,90,50,59,images/59.png,vileplume,False
+46,Paras,Bug  Grass,285,35,70,55,45,55,25,60,images/60.png,paras,False
+47,Parasect,Bug  Grass,405,60,95,80,60,80,30,61,images/61.png,parasect,False
+48,Venonat,Bug  Poison,305,60,55,50,40,55,45,62,images/62.png,venonat,False
+49,Venomoth,Bug  Poison,450,70,65,60,90,75,90,63,images/63.png,venomoth,False
+50,Diglett,Ground,265,10,55,25,35,45,95,64,images/64.png,diglett,False
+50,Diglett  Alolan Diglett,Ground  Steel,265,10,55,30,35,45,90,65,images/65.png,diglett-alolan-diglett,False
+51,Dugtrio,Ground,425,35,100,50,50,70,120,66,images/66.png,dugtrio,False
+51,Dugtrio  Alolan Dugtrio,Ground  Steel,425,35,100,60,50,70,110,67,images/67.png,dugtrio-alolan-dugtrio,False
+52,Meowth,Normal,290,40,45,35,40,40,90,68,images/68.png,meowth,False
+52,Meowth  Alolan Meowth,Dark,290,40,35,35,50,40,90,69,images/69.png,meowth-alolan-meowth,False
+52,Meowth  Galarian Meowth,Steel,290,50,65,55,40,40,40,70,images/70.png,meowth-galarian-meowth,False
+53,Persian,Normal,440,65,70,60,65,65,115,71,images/71.png,persian,False
+53,Persian  Alolan Persian,Dark,440,65,60,60,75,65,115,72,images/72.png,persian-alolan-persian,False
+54,Psyduck,Water,320,50,52,48,65,50,55,73,images/73.png,psyduck,False
+55,Golduck,Water,500,80,82,78,95,80,85,74,images/74.png,golduck,False
+56,Mankey,Fighting,305,40,80,35,35,45,70,75,images/75.png,mankey,False
+57,Primeape,Fighting,455,65,105,60,60,70,95,76,images/76.png,primeape,False
+58,Growlithe,Fire,350,55,70,45,70,50,60,77,images/77.png,growlithe,False
+58,Growlithe  Hisuian Growlithe,Fire  Rock,350,60,75,45,65,50,55,78,images/78.png,growlithe-hisuian-growlithe,False
+59,Arcanine,Fire,555,90,110,80,100,80,95,79,images/79.png,arcanine,False
+59,Arcanine  Hisuian Arcanine,Fire  Rock,555,95,115,80,95,80,90,80,images/80.png,arcanine-hisuian-arcanine,False
+60,Poliwag,Water,300,40,50,40,40,40,90,81,images/81.png,poliwag,False
+61,Poliwhirl,Water,385,65,65,65,50,50,90,82,images/82.png,poliwhirl,False
+62,Poliwrath,Water  Fighting,510,90,95,95,70,90,70,83,images/83.png,poliwrath,False
+63,Abra,Psychic,310,25,20,15,105,55,90,84,images/84.png,abra,False
+64,Kadabra,Psychic,400,40,35,30,120,70,105,85,images/85.png,kadabra,False
+65,Alakazam,Psychic,500,55,50,45,135,95,120,86,images/86.png,alakazam,False
+65,Alakazam  Mega Alakazam,Psychic,600,55,50,65,175,105,150,87,images/87.png,alakazam-mega,True
+66,Machop,Fighting,305,70,80,50,35,35,35,88,images/88.png,machop,False
+67,Machoke,Fighting,405,80,100,70,50,60,45,89,images/89.png,machoke,False
+68,Machamp,Fighting,505,90,130,80,65,85,55,90,images/90.png,machamp,False
+69,Bellsprout,Grass  Poison,300,50,75,35,70,30,40,91,images/91.png,bellsprout,False
+70,Weepinbell,Grass  Poison,390,65,90,50,85,45,55,92,images/92.png,weepinbell,False
+71,Victreebel,Grass  Poison,490,80,105,65,100,70,70,93,images/93.png,victreebel,False
+71,Victreebel  Mega Victreebel,Grass  Poison,590,80,125,85,135,95,70,,images/forms/mega-victreebel.jpg,victreebel-mega,True
+72,Tentacool,Water  Poison,335,40,40,35,50,100,70,94,images/94.png,tentacool,False
+73,Tentacruel,Water  Poison,515,80,70,65,80,120,100,95,images/95.png,tentacruel,False
+74,Geodude,Rock  Ground,300,40,80,100,30,30,20,96,images/96.png,geodude,False
+74,Geodude  Alolan Geodude,Rock  Electric,300,40,80,100,30,30,20,97,images/97.png,geodude-alolan-geodude,False
+75,Graveler,Rock  Ground,390,55,95,115,45,45,35,98,images/98.png,graveler,False
+75,Graveler  Alolan Graveler,Rock  Electric,390,55,95,115,45,45,35,99,images/99.png,graveler-alolan-graveler,False
+76,Golem,Rock  Ground,495,80,120,130,55,65,45,100,images/100.png,golem,False
+76,Golem  Alolan Golem,Rock  Electric,495,80,120,130,55,65,45,101,images/101.png,golem-alolan-golem,False
+77,Ponyta,Fire,410,50,85,55,65,65,90,102,images/102.png,ponyta,False
+77,Ponyta  Galarian Ponyta,Psychic,410,50,85,55,65,65,90,103,images/103.png,ponyta-galarian-ponyta,False
+78,Rapidash,Fire,500,65,100,70,80,80,105,104,images/104.png,rapidash,False
+78,Rapidash  Galarian Rapidash,Psychic  Fairy,500,65,100,70,80,80,105,105,images/105.png,rapidash-galarian-rapidash,False
+79,Slowpoke,Water  Psychic,315,90,65,65,40,40,15,106,images/106.png,slowpoke,False
+79,Slowpoke  Galarian Slowpoke,Psychic,315,90,65,65,40,40,15,107,images/107.png,slowpoke-galarian-slowpoke,False
+80,Slowbro,Water  Psychic,490,95,75,110,100,80,30,108,images/108.png,slowbro,False
+80,Slowbro  Mega Slowbro,Water  Psychic,590,95,75,180,130,80,30,109,images/109.png,slowbro-mega,True
+80,Slowbro  Galarian Slowbro,Poison  Psychic,490,95,100,95,100,70,30,110,images/110.png,slowbro-galarian-slowbro,False
+81,Magnemite,Electric  Steel,325,25,35,70,95,55,45,111,images/111.png,magnemite,False
+82,Magneton,Electric  Steel,465,50,60,95,120,70,70,112,images/112.png,magneton,False
+83,Farfetch'd,Normal  Flying,377,52,90,55,58,62,60,113,images/113.png,farfetch-d,False
+83,Farfetch'd  Galarian Farfetch'd,Fighting,377,52,95,55,58,62,55,114,images/114.png,farfetch-d-galarian-farfetch-d,False
+84,Doduo,Normal  Flying,310,35,85,45,35,35,75,115,images/115.png,doduo,False
+85,Dodrio,Normal  Flying,470,60,110,70,60,60,110,116,images/116.png,dodrio,False
+86,Seel,Water,325,65,45,55,45,70,45,117,images/117.png,seel,False
+87,Dewgong,Water  Ice,475,90,70,80,70,95,70,118,images/118.png,dewgong,False
+88,Grimer,Poison,325,80,80,50,40,50,25,119,images/119.png,grimer,False
+88,Grimer  Alolan Grimer,Poison  Dark,325,80,80,50,40,50,25,120,images/120.png,grimer-alolan-grimer,False
+89,Muk,Poison,500,105,105,75,65,100,50,121,images/121.png,muk,False
+89,Muk  Alolan Muk,Poison  Dark,500,105,105,75,65,100,50,122,images/122.png,muk-alolan-muk,False
+90,Shellder,Water,305,30,65,100,45,25,40,123,images/123.png,shellder,False
+91,Cloyster,Water  Ice,525,50,95,180,85,45,70,124,images/124.png,cloyster,False
+92,Gastly,Ghost  Poison,310,30,35,30,100,35,80,125,images/125.png,gastly,False
+93,Haunter,Ghost  Poison,405,45,50,45,115,55,95,126,images/126.png,haunter,False
+94,Gengar,Ghost  Poison,500,60,65,60,130,75,110,127,images/127.png,gengar,False
+94,Gengar  Mega Gengar,Ghost  Poison,600,60,65,80,170,95,130,128,images/128.png,gengar-mega,True
+95,Onix,Rock  Ground,385,35,45,160,30,45,70,129,images/129.png,onix,False
+96,Drowzee,Psychic,328,60,48,45,43,90,42,130,images/130.png,drowzee,False
+97,Hypno,Psychic,483,85,73,70,73,115,67,131,images/131.png,hypno,False
+98,Krabby,Water,325,30,105,90,25,25,50,132,images/132.png,krabby,False
+99,Kingler,Water,475,55,130,115,50,50,75,133,images/133.png,kingler,False
+100,Voltorb,Electric,330,40,30,50,55,55,100,134,images/134.png,voltorb,False
+100,Voltorb  Hisuian Voltorb,Electric  Grass,330,40,30,50,55,55,100,135,images/135.png,voltorb-hisuian-voltorb,False
+101,Electrode,Electric,490,60,50,70,80,80,150,136,images/136.png,electrode,False
+101,Electrode  Hisuian Electrode,Electric  Grass,490,60,50,70,80,80,150,137,images/137.png,electrode-hisuian-electrode,False
+102,Exeggcute,Grass  Psychic,325,60,40,80,60,45,40,138,images/138.png,exeggcute,False
+103,Exeggutor,Grass  Psychic,530,95,95,85,125,75,55,139,images/139.png,exeggutor,False
+103,Exeggutor  Alolan Exeggutor,Grass  Dragon,530,95,105,85,125,75,45,140,images/140.png,exeggutor-alolan-exeggutor,False
+104,Cubone,Ground,320,50,50,95,40,50,35,141,images/141.png,cubone,False
+105,Marowak,Ground,425,60,80,110,50,80,45,142,images/142.png,marowak,False
+105,Marowak  Alolan Marowak,Fire  Ghost,425,60,80,110,50,80,45,143,images/143.png,marowak-alolan-marowak,False
+106,Hitmonlee,Fighting,455,50,120,53,35,110,87,144,images/144.png,hitmonlee,False
+107,Hitmonchan,Fighting,455,50,105,79,35,110,76,145,images/145.png,hitmonchan,False
+108,Lickitung,Normal,385,90,55,75,60,75,30,146,images/146.png,lickitung,False
+109,Koffing,Poison,340,40,65,95,60,45,35,147,images/147.png,koffing,False
+110,Weezing,Poison,490,65,90,120,85,70,60,148,images/148.png,weezing,False
+110,Weezing  Galarian Weezing,Poison  Fairy,490,65,90,120,85,70,60,149,images/149.png,weezing-galarian-weezing,False
+111,Rhyhorn,Ground  Rock,345,80,85,95,30,30,25,150,images/150.png,rhyhorn,False
+112,Rhydon,Ground  Rock,485,105,130,120,45,45,40,151,images/151.png,rhydon,False
+113,Chansey,Normal,450,250,5,5,35,105,50,152,images/152.png,chansey,False
+114,Tangela,Grass,435,65,55,115,100,40,60,153,images/153.png,tangela,False
+115,Kangaskhan,Normal,490,105,95,80,40,80,90,154,images/154.png,kangaskhan,False
+115,Kangaskhan  Mega Kangaskhan,Normal,590,105,125,100,60,100,100,155,images/155.png,kangaskhan-mega,True
+116,Horsea,Water,295,30,40,70,70,25,60,156,images/156.png,horsea,False
+117,Seadra,Water,440,55,65,95,95,45,85,157,images/157.png,seadra,False
+118,Goldeen,Water,320,45,67,60,35,50,63,158,images/158.png,goldeen,False
+119,Seaking,Water,450,80,92,65,65,80,68,159,images/159.png,seaking,False
+120,Staryu,Water,340,30,45,55,70,55,85,160,images/160.png,staryu,False
+121,Starmie,Water  Psychic,520,60,75,85,100,85,115,161,images/161.png,starmie,False
+122,Mr. Mime,Psychic  Fairy,460,40,45,65,100,120,90,162,images/162.png,mr-mime,False
+122,Mr. Mime  Galarian Mr. Mime,Ice  Psychic,460,50,65,65,90,90,100,163,images/163.png,mr-mime-galarian-mr-mime,False
+123,Scyther,Bug  Flying,500,70,110,80,55,80,105,164,images/164.png,scyther,False
+124,Jynx,Ice  Psychic,455,65,50,35,115,95,95,165,images/165.png,jynx,False
+125,Electabuzz,Electric,490,65,83,57,95,85,105,166,images/166.png,electabuzz,False
+126,Magmar,Fire,495,65,95,57,100,85,93,167,images/167.png,magmar,False
+127,Pinsir,Bug,500,65,125,100,55,70,85,168,images/168.png,pinsir,False
+127,Pinsir  Mega Pinsir,Bug  Flying,600,65,155,120,65,90,105,169,images/169.png,pinsir-mega,True
+128,Tauros,Normal,490,75,100,95,40,70,110,170,images/170.png,tauros,False
+128,Tauros  Combat Breed,Fighting,490,75,110,105,30,70,100,171,images/171.png,tauros-combat-breed,False
+128,Tauros  Blaze Breed,Fighting  Fire,490,75,110,105,30,70,100,172,images/172.png,tauros-blaze-breed,False
+128,Tauros  Aqua Breed,Fighting  Water,490,75,110,105,30,70,100,173,images/173.png,tauros-aqua-breed,False
+129,Magikarp,Water,200,20,10,55,15,20,80,174,images/174.png,magikarp,False
+130,Gyarados,Water  Flying,540,95,125,79,60,100,81,175,images/175.png,gyarados,False
+130,Gyarados  Mega Gyarados,Water  Dark,640,95,155,109,70,130,81,176,images/176.png,gyarados-mega,True
+131,Lapras,Water  Ice,535,130,85,80,85,95,60,177,images/177.png,lapras,False
+132,Ditto,Normal,288,48,48,48,48,48,48,178,images/178.png,ditto,False
+133,Eevee,Normal,325,55,55,50,45,65,55,179,images/179.png,eevee,False
+133,Eevee  Partner Eevee,Normal,435,65,75,70,65,85,75,180,images/180.png,eevee-partner-eevee,False
+134,Vaporeon,Water,525,130,65,60,110,95,65,181,images/181.png,vaporeon,False
+135,Jolteon,Electric,525,65,65,60,110,95,130,182,images/182.png,jolteon,False
+136,Flareon,Fire,525,65,130,60,95,110,65,183,images/183.png,flareon,False
+137,Porygon,Normal,395,65,60,70,85,75,40,184,images/184.png,porygon,False
+138,Omanyte,Rock  Water,355,35,40,100,90,55,35,185,images/185.png,omanyte,False
+139,Omastar,Rock  Water,495,70,60,125,115,70,55,186,images/186.png,omastar,False
+140,Kabuto,Rock  Water,355,30,80,90,55,45,55,187,images/187.png,kabuto,False
+141,Kabutops,Rock  Water,495,60,115,105,65,70,80,188,images/188.png,kabutops,False
+142,Aerodactyl,Rock  Flying,515,80,105,65,60,75,130,189,images/189.png,aerodactyl,False
+142,Aerodactyl  Mega Aerodactyl,Rock  Flying,615,80,135,85,70,95,150,190,images/190.png,aerodactyl-mega,True
+143,Snorlax,Normal,540,160,110,65,65,110,30,191,images/191.png,snorlax,False
+144,Articuno,Ice  Flying,580,90,85,100,95,125,85,192,images/192.png,articuno,False
+144,Articuno  Galarian Articuno,Psychic  Flying,580,90,85,85,125,100,95,193,images/193.png,articuno-galarian-articuno,False
+145,Zapdos,Electric  Flying,580,90,90,85,125,90,100,194,images/194.png,zapdos,False
+145,Zapdos  Galarian Zapdos,Fighting  Flying,580,90,125,90,85,90,100,195,images/195.png,zapdos-galarian-zapdos,False
+146,Moltres,Fire  Flying,580,90,100,90,125,85,90,196,images/196.png,moltres,False
+146,Moltres  Galarian Moltres,Dark  Flying,580,90,85,90,100,125,90,197,images/197.png,moltres-galarian-moltres,False
+147,Dratini,Dragon,300,41,64,45,50,50,50,198,images/198.png,dratini,False
+148,Dragonair,Dragon,420,61,84,65,70,70,70,199,images/199.png,dragonair,False
+149,Dragonite,Dragon  Flying,600,91,134,95,100,100,80,200,images/200.png,dragonite,False
+149,Dragonite  Mega Dragonite,Dragon  Flying,700,91,124,115,145,125,100,,images/forms/mega-dragonite.jpg,dragonite-mega,True
+150,Mewtwo,Psychic,680,106,110,90,154,90,130,201,images/201.png,mewtwo,False
+150,Mewtwo  Mega Mewtwo X,Psychic  Fighting,780,106,190,100,154,100,130,202,images/202.png,mewtwo-mega-x,True
+150,Mewtwo  Mega Mewtwo Y,Psychic,780,106,150,70,194,120,140,203,images/203.png,mewtwo-mega-y,True
+151,Mew,Psychic,600,100,100,100,100,100,100,204,images/204.png,mew,False
+152,Chikorita,Grass,318,45,49,65,49,65,45,205,images/205.png,chikorita,False
+153,Bayleef,Grass,405,60,62,80,63,80,60,206,images/206.png,bayleef,False
+154,Meganium,Grass,525,80,82,100,83,100,80,207,images/207.png,meganium,False
+155,Cyndaquil,Fire,309,39,52,43,60,50,65,208,images/208.png,cyndaquil,False
+156,Quilava,Fire,405,58,64,58,80,65,80,209,images/209.png,quilava,False
+157,Typhlosion,Fire,534,78,84,78,109,85,100,210,images/210.png,typhlosion,False
+157,Typhlosion  Hisuian Typhlosion,Fire  Ghost,534,73,84,78,119,85,95,211,images/211.png,typhlosion-hisuian-typhlosion,False
+158,Totodile,Water,314,50,65,64,44,48,43,212,images/212.png,totodile,False
+159,Croconaw,Water,405,65,80,80,59,63,58,213,images/213.png,croconaw,False
+160,Feraligatr,Water,530,85,105,100,79,83,78,214,images/214.png,feraligatr,False
+161,Sentret,Normal,215,35,46,34,35,45,20,215,images/215.png,sentret,False
+162,Furret,Normal,415,85,76,64,45,55,90,216,images/216.png,furret,False
+163,Hoothoot,Normal  Flying,262,60,30,30,36,56,50,217,images/217.png,hoothoot,False
+164,Noctowl,Normal  Flying,452,100,50,50,86,96,70,218,images/218.png,noctowl,False
+165,Ledyba,Bug  Flying,265,40,20,30,40,80,55,219,images/219.png,ledyba,False
+166,Ledian,Bug  Flying,390,55,35,50,55,110,85,220,images/220.png,ledian,False
+167,Spinarak,Bug  Poison,250,40,60,40,40,40,30,221,images/221.png,spinarak,False
+168,Ariados,Bug  Poison,400,70,90,70,60,70,40,222,images/222.png,ariados,False
+169,Crobat,Poison  Flying,535,85,90,80,70,80,130,223,images/223.png,crobat,False
+170,Chinchou,Water  Electric,330,75,38,38,56,56,67,224,images/224.png,chinchou,False
+171,Lanturn,Water  Electric,460,125,58,58,76,76,67,225,images/225.png,lanturn,False
+172,Pichu,Electric,205,20,40,15,35,35,60,226,images/226.png,pichu,False
+173,Cleffa,Fairy,218,50,25,28,45,55,15,227,images/227.png,cleffa,False
+174,Igglybuff,Normal  Fairy,210,90,30,15,40,20,15,228,images/228.png,igglybuff,False
+175,Togepi,Fairy,245,35,20,65,40,65,20,229,images/229.png,togepi,False
+176,Togetic,Fairy  Flying,405,55,40,85,80,105,40,230,images/230.png,togetic,False
+177,Natu,Psychic  Flying,320,40,50,45,70,45,70,231,images/231.png,natu,False
+178,Xatu,Psychic  Flying,470,65,75,70,95,70,95,232,images/232.png,xatu,False
+179,Mareep,Electric,280,55,40,40,65,45,35,233,images/233.png,mareep,False
+180,Flaaffy,Electric,365,70,55,55,80,60,45,234,images/234.png,flaaffy,False
+181,Ampharos,Electric,510,90,75,85,115,90,55,235,images/235.png,ampharos,False
+181,Ampharos  Mega Ampharos,Electric  Dragon,610,90,95,105,165,110,45,236,images/236.png,ampharos-mega,True
+182,Bellossom,Grass,490,75,80,95,90,100,50,237,images/237.png,bellossom,False
+183,Marill,Water  Fairy,250,70,20,50,20,50,40,238,images/238.png,marill,False
+184,Azumarill,Water  Fairy,420,100,50,80,60,80,50,239,images/239.png,azumarill,False
+185,Sudowoodo,Rock,410,70,100,115,30,65,30,240,images/240.png,sudowoodo,False
+186,Politoed,Water,500,90,75,75,90,100,70,241,images/241.png,politoed,False
+187,Hoppip,Grass  Flying,250,35,35,40,35,55,50,242,images/242.png,hoppip,False
+188,Skiploom,Grass  Flying,340,55,45,50,45,65,80,243,images/243.png,skiploom,False
+189,Jumpluff,Grass  Flying,460,75,55,70,55,95,110,244,images/244.png,jumpluff,False
+190,Aipom,Normal,360,55,70,55,40,55,85,245,images/245.png,aipom,False
+191,Sunkern,Grass,180,30,30,30,30,30,30,246,images/246.png,sunkern,False
+192,Sunflora,Grass,425,75,75,55,105,85,30,247,images/247.png,sunflora,False
+193,Yanma,Bug  Flying,390,65,65,45,75,45,95,248,images/248.png,yanma,False
+194,Wooper,Water  Ground,210,55,45,45,25,25,15,249,images/249.png,wooper,False
+194,Wooper  Paldean Wooper,Poison  Ground,210,55,45,45,25,25,15,250,images/250.png,wooper-paldean-wooper,False
+195,Quagsire,Water  Ground,430,95,85,85,65,65,35,251,images/251.png,quagsire,False
+196,Espeon,Psychic,525,65,65,60,130,95,110,252,images/252.png,espeon,False
+197,Umbreon,Dark,525,95,65,110,60,130,65,253,images/253.png,umbreon,False
+198,Murkrow,Dark  Flying,405,60,85,42,85,42,91,254,images/254.png,murkrow,False
+199,Slowking,Water  Psychic,490,95,75,80,100,110,30,255,images/255.png,slowking,False
+199,Slowking  Galarian Slowking,Poison  Psychic,490,95,65,80,110,110,30,256,images/256.png,slowking-galarian-slowking,False
+200,Misdreavus,Ghost,435,60,60,60,85,85,85,257,images/257.png,misdreavus,False
+201,Unown,Psychic,336,48,72,48,72,48,48,258,images/258.png,unown,False
+202,Wobbuffet,Psychic,405,190,33,58,33,58,33,259,images/259.png,wobbuffet,False
+203,Girafarig,Normal  Psychic,455,70,80,65,90,65,85,260,images/260.png,girafarig,False
+204,Pineco,Bug,290,50,65,90,35,35,15,261,images/261.png,pineco,False
+205,Forretress,Bug  Steel,465,75,90,140,60,60,40,262,images/262.png,forretress,False
+206,Dunsparce,Normal,415,100,70,70,65,65,45,263,images/263.png,dunsparce,False
+207,Gligar,Ground  Flying,430,65,75,105,35,65,85,264,images/264.png,gligar,False
+208,Steelix,Steel  Ground,510,75,85,200,55,65,30,265,images/265.png,steelix,False
+208,Steelix  Mega Steelix,Steel  Ground,610,75,125,230,55,95,30,266,images/266.png,steelix-mega,True
+209,Snubbull,Fairy,300,60,80,50,40,40,30,267,images/267.png,snubbull,False
+210,Granbull,Fairy,450,90,120,75,60,60,45,268,images/268.png,granbull,False
+211,Qwilfish,Water  Poison,440,65,95,85,55,55,85,269,images/269.png,qwilfish,False
+211,Qwilfish  Hisuian Qwilfish,Dark  Poison,440,65,95,85,55,55,85,270,images/270.png,qwilfish-hisuian-qwilfish,False
+212,Scizor,Bug  Steel,500,70,130,100,55,80,65,271,images/271.png,scizor,False
+212,Scizor  Mega Scizor,Bug  Steel,600,70,150,140,65,100,75,272,images/272.png,scizor-mega,True
+213,Shuckle,Bug  Rock,505,20,10,230,10,230,5,273,images/273.png,shuckle,False
+214,Heracross,Bug  Fighting,500,80,125,75,40,95,85,274,images/274.png,heracross,False
+214,Heracross  Mega Heracross,Bug  Fighting,600,80,185,115,40,105,75,275,images/275.png,heracross-mega,True
+215,Sneasel,Dark  Ice,430,55,95,55,35,75,115,276,images/276.png,sneasel,False
+215,Sneasel  Hisuian Sneasel,Fighting  Poison,430,55,95,55,35,75,115,277,images/277.png,sneasel-hisuian-sneasel,False
+216,Teddiursa,Normal,330,60,80,50,50,50,40,278,images/278.png,teddiursa,False
+217,Ursaring,Normal,500,90,130,75,75,75,55,279,images/279.png,ursaring,False
+218,Slugma,Fire,250,40,40,40,70,40,20,280,images/280.png,slugma,False
+219,Magcargo,Fire  Rock,430,60,50,120,90,80,30,281,images/281.png,magcargo,False
+220,Swinub,Ice  Ground,250,50,50,40,30,30,50,282,images/282.png,swinub,False
+221,Piloswine,Ice  Ground,450,100,100,80,60,60,50,283,images/283.png,piloswine,False
+222,Corsola,Water  Rock,410,65,55,95,65,95,35,284,images/284.png,corsola,False
+222,Corsola  Galarian Corsola,Ghost,410,60,55,100,65,100,30,285,images/285.png,corsola-galarian-corsola,False
+223,Remoraid,Water,300,35,65,35,65,35,65,286,images/286.png,remoraid,False
+224,Octillery,Water,480,75,105,75,105,75,45,287,images/287.png,octillery,False
+225,Delibird,Ice  Flying,330,45,55,45,65,45,75,288,images/288.png,delibird,False
+226,Mantine,Water  Flying,485,85,40,70,80,140,70,289,images/289.png,mantine,False
+227,Skarmory,Steel  Flying,465,65,80,140,40,70,70,290,images/290.png,skarmory,False
+228,Houndour,Dark  Fire,330,45,60,30,80,50,65,291,images/291.png,houndour,False
+229,Houndoom,Dark  Fire,500,75,90,50,110,80,95,292,images/292.png,houndoom,False
+229,Houndoom  Mega Houndoom,Dark  Fire,600,75,90,90,140,90,115,293,images/293.png,houndoom-mega,True
+230,Kingdra,Water  Dragon,540,75,95,95,95,95,85,294,images/294.png,kingdra,False
+231,Phanpy,Ground,330,90,60,60,40,40,40,295,images/295.png,phanpy,False
+232,Donphan,Ground,500,90,120,120,60,60,50,296,images/296.png,donphan,False
+233,Porygon2,Normal,515,85,80,90,105,95,60,297,images/297.png,porygon2,False
+234,Stantler,Normal,465,73,95,62,85,65,85,298,images/298.png,stantler,False
+235,Smeargle,Normal,250,55,20,35,20,45,75,299,images/299.png,smeargle,False
+236,Tyrogue,Fighting,210,35,35,35,35,35,35,300,images/300.png,tyrogue,False
+237,Hitmontop,Fighting,455,50,95,95,35,110,70,301,images/301.png,hitmontop,False
+238,Smoochum,Ice  Psychic,305,45,30,15,85,65,65,302,images/302.png,smoochum,False
+239,Elekid,Electric,360,45,63,37,65,55,95,303,images/303.png,elekid,False
+240,Magby,Fire,365,45,75,37,70,55,83,304,images/304.png,magby,False
+241,Miltank,Normal,490,95,80,105,40,70,100,305,images/305.png,miltank,False
+242,Blissey,Normal,540,255,10,10,75,135,55,306,images/306.png,blissey,False
+243,Raikou,Electric,580,90,85,75,115,100,115,307,images/307.png,raikou,False
+244,Entei,Fire,580,115,115,85,90,75,100,308,images/308.png,entei,False
+245,Suicune,Water,580,100,75,115,90,115,85,309,images/309.png,suicune,False
+246,Larvitar,Rock  Ground,300,50,64,50,45,50,41,310,images/310.png,larvitar,False
+247,Pupitar,Rock  Ground,410,70,84,70,65,70,51,311,images/311.png,pupitar,False
+248,Tyranitar,Rock  Dark,600,100,134,110,95,100,61,312,images/312.png,tyranitar,False
+248,Tyranitar  Mega Tyranitar,Rock  Dark,700,100,164,150,95,120,71,313,images/313.png,tyranitar-mega,True
+249,Lugia,Psychic  Flying,680,106,90,130,90,154,110,314,images/314.png,lugia,False
+250,Ho-oh,Fire  Flying,680,106,130,90,110,154,90,315,images/315.png,ho-oh,False
+251,Celebi,Psychic  Grass,600,100,100,100,100,100,100,316,images/316.png,celebi,False
+252,Treecko,Grass,310,40,45,35,65,55,70,317,images/317.png,treecko,False
+253,Grovyle,Grass,405,50,65,45,85,65,95,318,images/318.png,grovyle,False
+254,Sceptile,Grass,530,70,85,65,105,85,120,319,images/319.png,sceptile,False
+254,Sceptile  Mega Sceptile,Grass  Dragon,630,70,110,75,145,85,145,320,images/320.png,sceptile-mega,True
+255,Torchic,Fire,310,45,60,40,70,50,45,321,images/321.png,torchic,False
+256,Combusken,Fire  Fighting,405,60,85,60,85,60,55,322,images/322.png,combusken,False
+257,Blaziken,Fire  Fighting,530,80,120,70,110,70,80,323,images/323.png,blaziken,False
+257,Blaziken  Mega Blaziken,Fire  Fighting,630,80,160,80,130,80,100,324,images/324.png,blaziken-mega,True
+258,Mudkip,Water,310,50,70,50,50,50,40,325,images/325.png,mudkip,False
+259,Marshtomp,Water  Ground,405,70,85,70,60,70,50,326,images/326.png,marshtomp,False
+260,Swampert,Water  Ground,535,100,110,90,85,90,60,327,images/327.png,swampert,False
+260,Swampert  Mega Swampert,Water  Ground,635,100,150,110,95,110,70,328,images/328.png,swampert-mega,True
+261,Poochyena,Dark,220,35,55,35,30,30,35,329,images/329.png,poochyena,False
+262,Mightyena,Dark,420,70,90,70,60,60,70,330,images/330.png,mightyena,False
+263,Zigzagoon,Normal,240,38,30,41,30,41,60,331,images/331.png,zigzagoon,False
+263,Zigzagoon  Galarian Zigzagoon,Dark  Normal,240,38,30,41,30,41,60,332,images/332.png,zigzagoon-galarian-zigzagoon,False
+264,Linoone,Normal,420,78,70,61,50,61,100,333,images/333.png,linoone,False
+264,Linoone  Galarian Linoone,Dark  Normal,420,78,70,61,50,61,100,334,images/334.png,linoone-galarian-linoone,False
+265,Wurmple,Bug,195,45,45,35,20,30,20,335,images/335.png,wurmple,False
+266,Silcoon,Bug,205,50,35,55,25,25,15,336,images/336.png,silcoon,False
+267,Beautifly,Bug  Flying,395,60,70,50,100,50,65,337,images/337.png,beautifly,False
+268,Cascoon,Bug,205,50,35,55,25,25,15,338,images/338.png,cascoon,False
+269,Dustox,Bug  Poison,385,60,50,70,50,90,65,339,images/339.png,dustox,False
+270,Lotad,Water  Grass,220,40,30,30,40,50,30,340,images/340.png,lotad,False
+271,Lombre,Water  Grass,340,60,50,50,60,70,50,341,images/341.png,lombre,False
+272,Ludicolo,Water  Grass,480,80,70,70,90,100,70,342,images/342.png,ludicolo,False
+273,Seedot,Grass,220,40,40,50,30,30,30,343,images/343.png,seedot,False
+274,Nuzleaf,Grass  Dark,340,70,70,40,60,40,60,344,images/344.png,nuzleaf,False
+275,Shiftry,Grass  Dark,480,90,100,60,90,60,80,345,images/345.png,shiftry,False
+276,Taillow,Normal  Flying,270,40,55,30,30,30,85,346,images/346.png,taillow,False
+277,Swellow,Normal  Flying,455,60,85,60,75,50,125,347,images/347.png,swellow,False
+278,Wingull,Water  Flying,270,40,30,30,55,30,85,348,images/348.png,wingull,False
+279,Pelipper,Water  Flying,440,60,50,100,95,70,65,349,images/349.png,pelipper,False
+280,Ralts,Psychic  Fairy,198,28,25,25,45,35,40,350,images/350.png,ralts,False
+281,Kirlia,Psychic  Fairy,278,38,35,35,65,55,50,351,images/351.png,kirlia,False
+282,Gardevoir,Psychic  Fairy,518,68,65,65,125,115,80,352,images/352.png,gardevoir,False
+282,Gardevoir  Mega Gardevoir,Psychic  Fairy,618,68,85,65,165,135,100,353,images/353.png,gardevoir-mega,True
+283,Surskit,Bug  Water,269,40,30,32,50,52,65,354,images/354.png,surskit,False
+284,Masquerain,Bug  Flying,454,70,60,62,100,82,80,355,images/355.png,masquerain,False
+285,Shroomish,Grass,295,60,40,60,40,60,35,356,images/356.png,shroomish,False
+286,Breloom,Grass  Fighting,460,60,130,80,60,60,70,357,images/357.png,breloom,False
+287,Slakoth,Normal,280,60,60,60,35,35,30,358,images/358.png,slakoth,False
+288,Vigoroth,Normal,440,80,80,80,55,55,90,359,images/359.png,vigoroth,False
+289,Slaking,Normal,670,150,160,100,95,65,100,360,images/360.png,slaking,False
+290,Nincada,Bug  Ground,266,31,45,90,30,30,40,361,images/361.png,nincada,False
+291,Ninjask,Bug  Flying,456,61,90,45,50,50,160,362,images/362.png,ninjask,False
+292,Shedinja,Bug  Ghost,236,1,90,45,30,30,40,363,images/363.png,shedinja,False
+293,Whismur,Normal,240,64,51,23,51,23,28,364,images/364.png,whismur,False
+294,Loudred,Normal,360,84,71,43,71,43,48,365,images/365.png,loudred,False
+295,Exploud,Normal,490,104,91,63,91,73,68,366,images/366.png,exploud,False
+296,Makuhita,Fighting,237,72,60,30,20,30,25,367,images/367.png,makuhita,False
+297,Hariyama,Fighting,474,144,120,60,40,60,50,368,images/368.png,hariyama,False
+298,Azurill,Normal  Fairy,190,50,20,40,20,40,20,369,images/369.png,azurill,False
+299,Nosepass,Rock,375,30,45,135,45,90,30,370,images/370.png,nosepass,False
+300,Skitty,Normal,260,50,45,45,35,35,50,371,images/371.png,skitty,False
+301,Delcatty,Normal,400,70,65,65,55,55,90,372,images/372.png,delcatty,False
+302,Sableye,Dark  Ghost,380,50,75,75,65,65,50,373,images/373.png,sableye,False
+302,Sableye  Mega Sableye,Dark  Ghost,480,50,85,125,85,115,20,374,images/374.png,sableye-mega,True
+303,Mawile,Steel  Fairy,380,50,85,85,55,55,50,375,images/375.png,mawile,False
+303,Mawile  Mega Mawile,Steel  Fairy,480,50,105,125,55,95,50,376,images/376.png,mawile-mega,True
+304,Aron,Steel  Rock,330,50,70,100,40,40,30,377,images/377.png,aron,False
+305,Lairon,Steel  Rock,430,60,90,140,50,50,40,378,images/378.png,lairon,False
+306,Aggron,Steel  Rock,530,70,110,180,60,60,50,379,images/379.png,aggron,False
+306,Aggron  Mega Aggron,Steel,630,70,140,230,60,80,50,380,images/380.png,aggron-mega,True
+307,Meditite,Fighting  Psychic,280,30,40,55,40,55,60,381,images/381.png,meditite,False
+308,Medicham,Fighting  Psychic,410,60,60,75,60,75,80,382,images/382.png,medicham,False
+308,Medicham  Mega Medicham,Fighting  Psychic,510,60,100,85,80,85,100,383,images/383.png,medicham-mega,True
+309,Electrike,Electric,295,40,45,40,65,40,65,384,images/384.png,electrike,False
+310,Manectric,Electric,475,70,75,60,105,60,105,385,images/385.png,manectric,False
+310,Manectric  Mega Manectric,Electric,575,70,75,80,135,80,135,386,images/386.png,manectric-mega,True
+311,Plusle,Electric,405,60,50,40,85,75,95,387,images/387.png,plusle,False
+312,Minun,Electric,405,60,40,50,75,85,95,388,images/388.png,minun,False
+313,Volbeat,Bug,430,65,73,75,47,85,85,389,images/389.png,volbeat,False
+314,Illumise,Bug,430,65,47,75,73,85,85,390,images/390.png,illumise,False
+315,Roselia,Grass  Poison,400,50,60,45,100,80,65,391,images/391.png,roselia,False
+316,Gulpin,Poison,302,70,43,53,43,53,40,392,images/392.png,gulpin,False
+317,Swalot,Poison,467,100,73,83,73,83,55,393,images/393.png,swalot,False
+318,Carvanha,Water  Dark,305,45,90,20,65,20,65,394,images/394.png,carvanha,False
+319,Sharpedo,Water  Dark,460,70,120,40,95,40,95,395,images/395.png,sharpedo,False
+319,Sharpedo  Mega Sharpedo,Water  Dark,560,70,140,70,110,65,105,396,images/396.png,sharpedo-mega,True
+320,Wailmer,Water,400,130,70,35,70,35,60,397,images/397.png,wailmer,False
+321,Wailord,Water,500,170,90,45,90,45,60,398,images/398.png,wailord,False
+322,Numel,Fire  Ground,305,60,60,40,65,45,35,399,images/399.png,numel,False
+323,Camerupt,Fire  Ground,460,70,100,70,105,75,40,400,images/400.png,camerupt,False
+323,Camerupt  Mega Camerupt,Fire  Ground,560,70,120,100,145,105,20,401,images/401.png,camerupt-mega,True
+324,Torkoal,Fire,470,70,85,140,85,70,20,402,images/402.png,torkoal,False
+325,Spoink,Psychic,330,60,25,35,70,80,60,403,images/403.png,spoink,False
+326,Grumpig,Psychic,470,80,45,65,90,110,80,404,images/404.png,grumpig,False
+327,Spinda,Normal,360,60,60,60,60,60,60,405,images/405.png,spinda,False
+328,Trapinch,Ground,290,45,100,45,45,45,10,406,images/406.png,trapinch,False
+329,Vibrava,Ground  Dragon,340,50,70,50,50,50,70,407,images/407.png,vibrava,False
+330,Flygon,Ground  Dragon,520,80,100,80,80,80,100,408,images/408.png,flygon,False
+331,Cacnea,Grass,335,50,85,40,85,40,35,409,images/409.png,cacnea,False
+332,Cacturne,Grass  Dark,475,70,115,60,115,60,55,410,images/410.png,cacturne,False
+333,Swablu,Normal  Flying,310,45,40,60,40,75,50,411,images/411.png,swablu,False
+334,Altaria,Dragon  Flying,490,75,70,90,70,105,80,412,images/412.png,altaria,False
+334,Altaria  Mega Altaria,Dragon  Fairy,590,75,110,110,110,105,80,413,images/413.png,altaria-mega,True
+335,Zangoose,Normal,458,73,115,60,60,60,90,414,images/414.png,zangoose,False
+336,Seviper,Poison,458,73,100,60,100,60,65,415,images/415.png,seviper,False
+337,Lunatone,Rock  Psychic,460,90,55,65,95,85,70,416,images/416.png,lunatone,False
+338,Solrock,Rock  Psychic,460,90,95,85,55,65,70,417,images/417.png,solrock,False
+339,Barboach,Water  Ground,288,50,48,43,46,41,60,418,images/418.png,barboach,False
+340,Whiscash,Water  Ground,468,110,78,73,76,71,60,419,images/419.png,whiscash,False
+341,Corphish,Water,308,43,80,65,50,35,35,420,images/420.png,corphish,False
+342,Crawdaunt,Water  Dark,468,63,120,85,90,55,55,421,images/421.png,crawdaunt,False
+343,Baltoy,Ground  Psychic,300,40,40,55,40,70,55,422,images/422.png,baltoy,False
+344,Claydol,Ground  Psychic,500,60,70,105,70,120,75,423,images/423.png,claydol,False
+345,Lileep,Rock  Grass,355,66,41,77,61,87,23,424,images/424.png,lileep,False
+346,Cradily,Rock  Grass,495,86,81,97,81,107,43,425,images/425.png,cradily,False
+347,Anorith,Rock  Bug,355,45,95,50,40,50,75,426,images/426.png,anorith,False
+348,Armaldo,Rock  Bug,495,75,125,100,70,80,45,427,images/427.png,armaldo,False
+349,Feebas,Water,200,20,15,20,10,55,80,428,images/428.png,feebas,False
+350,Milotic,Water,540,95,60,79,100,125,81,429,images/429.png,milotic,False
+351,Castform,Normal,420,70,70,70,70,70,70,430,images/430.png,castform,False
+351,Castform  Sunny Form,Fire,420,70,70,70,70,70,70,431,images/431.png,castform-sunny-form,False
+351,Castform  Rainy Form,Water,420,70,70,70,70,70,70,432,images/432.png,castform-rainy-form,False
+351,Castform  Snowy Form,Ice,420,70,70,70,70,70,70,433,images/433.png,castform-snowy-form,False
+352,Kecleon,Normal,440,60,90,70,60,120,40,434,images/434.png,kecleon,False
+353,Shuppet,Ghost,295,44,75,35,63,33,45,435,images/435.png,shuppet,False
+354,Banette,Ghost,455,64,115,65,83,63,65,436,images/436.png,banette,False
+354,Banette  Mega Banette,Ghost,555,64,165,75,93,83,75,437,images/437.png,banette-mega,True
+355,Duskull,Ghost,295,20,40,90,30,90,25,438,images/438.png,duskull,False
+356,Dusclops,Ghost,455,40,70,130,60,130,25,439,images/439.png,dusclops,False
+357,Tropius,Grass  Flying,460,99,68,83,72,87,51,440,images/440.png,tropius,False
+358,Chimecho,Psychic,455,75,50,80,95,90,65,441,images/441.png,chimecho,False
+359,Absol,Dark,465,65,130,60,75,60,75,442,images/442.png,absol,False
+359,Absol  Mega Absol,Dark,565,65,150,60,115,60,115,443,images/443.png,absol-mega,True
+360,Wynaut,Psychic,260,95,23,48,23,48,23,444,images/444.png,wynaut,False
+361,Snorunt,Ice,300,50,50,50,50,50,50,445,images/445.png,snorunt,False
+362,Glalie,Ice,480,80,80,80,80,80,80,446,images/446.png,glalie,False
+362,Glalie  Mega Glalie,Ice,580,80,120,80,120,80,100,447,images/447.png,glalie-mega,True
+363,Spheal,Ice  Water,290,70,40,50,55,50,25,448,images/448.png,spheal,False
+364,Sealeo,Ice  Water,410,90,60,70,75,70,45,449,images/449.png,sealeo,False
+365,Walrein,Ice  Water,530,110,80,90,95,90,65,450,images/450.png,walrein,False
+366,Clamperl,Water,345,35,64,85,74,55,32,451,images/451.png,clamperl,False
+367,Huntail,Water,485,55,104,105,94,75,52,452,images/452.png,huntail,False
+368,Gorebyss,Water,485,55,84,105,114,75,52,453,images/453.png,gorebyss,False
+369,Relicanth,Water  Rock,485,100,90,130,45,65,55,454,images/454.png,relicanth,False
+370,Luvdisc,Water,330,43,30,55,40,65,97,455,images/455.png,luvdisc,False
+371,Bagon,Dragon,300,45,75,60,40,30,50,456,images/456.png,bagon,False
+372,Shelgon,Dragon,420,65,95,100,60,50,50,457,images/457.png,shelgon,False
+373,Salamence,Dragon  Flying,600,95,135,80,110,80,100,458,images/458.png,salamence,False
+373,Salamence  Mega Salamence,Dragon  Flying,700,95,145,130,120,90,120,459,images/459.png,salamence-mega,True
+374,Beldum,Steel  Psychic,300,40,55,80,35,60,30,460,images/460.png,beldum,False
+375,Metang,Steel  Psychic,420,60,75,100,55,80,50,461,images/461.png,metang,False
+376,Metagross,Steel  Psychic,600,80,135,130,95,90,70,462,images/462.png,metagross,False
+376,Metagross  Mega Metagross,Steel  Psychic,700,80,145,150,105,110,110,463,images/463.png,metagross-mega,True
+377,Regirock,Rock,580,80,100,200,50,100,50,464,images/464.png,regirock,False
+378,Regice,Ice,580,80,50,100,100,200,50,465,images/465.png,regice,False
+379,Registeel,Steel,580,80,75,150,75,150,50,466,images/466.png,registeel,False
+380,Latias,Dragon  Psychic,600,80,80,90,110,130,110,467,images/467.png,latias,False
+380,Latias  Mega Latias,Dragon  Psychic,700,80,100,120,140,150,110,468,images/468.png,latias-mega,True
+381,Latios,Dragon  Psychic,600,80,90,80,130,110,110,469,images/469.png,latios,False
+381,Latios  Mega Latios,Dragon  Psychic,700,80,130,100,160,120,110,470,images/470.png,latios-mega,True
+382,Kyogre,Water,670,100,100,90,150,140,90,471,images/471.png,kyogre,False
+382,Kyogre  Primal Kyogre,Water,770,100,150,90,180,160,90,472,images/472.png,kyogre-primal-kyogre,False
+383,Groudon,Ground,670,100,150,140,100,90,90,473,images/473.png,groudon,False
+383,Groudon  Primal Groudon,Ground  Fire,770,100,180,160,150,90,90,474,images/474.png,groudon-primal-groudon,False
+384,Rayquaza,Dragon  Flying,680,105,150,90,150,90,95,475,images/475.png,rayquaza,False
+384,Rayquaza  Mega Rayquaza,Dragon  Flying,780,105,180,100,180,100,115,476,images/476.png,rayquaza-mega,True
+385,Jirachi,Steel  Psychic,600,100,100,100,100,100,100,477,images/477.png,jirachi,False
+386,Deoxys  Normal Forme,Psychic,600,50,150,50,150,50,150,478,images/478.png,deoxys-normal-forme,False
+386,Deoxys  Attack Forme,Psychic,600,50,180,20,180,20,150,479,images/479.png,deoxys-attack-forme,False
+386,Deoxys  Defense Forme,Psychic,600,50,70,160,70,160,90,480,images/480.png,deoxys-defense-forme,False
+386,Deoxys  Speed Forme,Psychic,600,50,95,90,95,90,180,481,images/481.png,deoxys-speed-forme,False
+387,Turtwig,Grass,318,55,68,64,45,55,31,482,images/482.png,turtwig,False
+388,Grotle,Grass,405,75,89,85,55,65,36,483,images/483.png,grotle,False
+389,Torterra,Grass  Ground,525,95,109,105,75,85,56,484,images/484.png,torterra,False
+390,Chimchar,Fire,309,44,58,44,58,44,61,485,images/485.png,chimchar,False
+391,Monferno,Fire  Fighting,405,64,78,52,78,52,81,486,images/486.png,monferno,False
+392,Infernape,Fire  Fighting,534,76,104,71,104,71,108,487,images/487.png,infernape,False
+393,Piplup,Water,314,53,51,53,61,56,40,488,images/488.png,piplup,False
+394,Prinplup,Water,405,64,66,68,81,76,50,489,images/489.png,prinplup,False
+395,Empoleon,Water  Steel,530,84,86,88,111,101,60,490,images/490.png,empoleon,False
+396,Starly,Normal  Flying,245,40,55,30,30,30,60,491,images/491.png,starly,False
+397,Staravia,Normal  Flying,340,55,75,50,40,40,80,492,images/492.png,staravia,False
+398,Staraptor,Normal  Flying,485,85,120,70,50,60,100,493,images/493.png,staraptor,False
+399,Bidoof,Normal,250,59,45,40,35,40,31,494,images/494.png,bidoof,False
+400,Bibarel,Normal  Water,410,79,85,60,55,60,71,495,images/495.png,bibarel,False
+401,Kricketot,Bug,194,37,25,41,25,41,25,496,images/496.png,kricketot,False
+402,Kricketune,Bug,384,77,85,51,55,51,65,497,images/497.png,kricketune,False
+403,Shinx,Electric,263,45,65,34,40,34,45,498,images/498.png,shinx,False
+404,Luxio,Electric,363,60,85,49,60,49,60,499,images/499.png,luxio,False
+405,Luxray,Electric,523,80,120,79,95,79,70,500,images/500.png,luxray,False
+406,Budew,Grass  Poison,280,40,30,35,50,70,55,501,images/501.png,budew,False
+407,Roserade,Grass  Poison,515,60,70,65,125,105,90,502,images/502.png,roserade,False
+408,Cranidos,Rock,350,67,125,40,30,30,58,503,images/503.png,cranidos,False
+409,Rampardos,Rock,495,97,165,60,65,50,58,504,images/504.png,rampardos,False
+410,Shieldon,Rock  Steel,350,30,42,118,42,88,30,505,images/505.png,shieldon,False
+411,Bastiodon,Rock  Steel,495,60,52,168,47,138,30,506,images/506.png,bastiodon,False
+412,Burmy  Plant Cloak,Bug,224,40,29,45,29,45,36,507,images/507.png,burmy-plant-cloak,False
+412,Burmy  Sandy Cloak,Bug,224,40,29,45,29,45,36,508,images/508.png,burmy-sandy-cloak,False
+412,Burmy  Trash Cloak,Bug,224,40,29,45,29,45,36,509,images/509.png,burmy-trash-cloak,False
+413,Wormadam  Plant Cloak,Bug  Grass,424,60,59,85,79,105,36,510,images/510.png,wormadam-plant-cloak,False
+413,Wormadam  Sandy Cloak,Bug  Ground,424,60,79,105,59,85,36,511,images/511.png,wormadam-sandy-cloak,False
+413,Wormadam  Trash Cloak,Bug  Steel,424,60,69,95,69,95,36,512,images/512.png,wormadam-trash-cloak,False
+414,Mothim,Bug  Flying,424,70,94,50,94,50,66,513,images/513.png,mothim,False
+415,Combee,Bug  Flying,244,30,30,42,30,42,70,514,images/514.png,combee,False
+416,Vespiquen,Bug  Flying,474,70,80,102,80,102,40,515,images/515.png,vespiquen,False
+417,Pachirisu,Electric,405,60,45,70,45,90,95,516,images/516.png,pachirisu,False
+418,Buizel,Water,330,55,65,35,60,30,85,517,images/517.png,buizel,False
+419,Floatzel,Water,495,85,105,55,85,50,115,518,images/518.png,floatzel,False
+420,Cherubi,Grass,275,45,35,45,62,53,35,519,images/519.png,cherubi,False
+421,Cherrim,Grass,450,70,60,70,87,78,85,520,images/520.png,cherrim,False
+422,Shellos,Water,325,76,48,48,57,62,34,521,images/521.png,shellos,False
+423,Gastrodon,Water  Ground,475,111,83,68,92,82,39,522,images/522.png,gastrodon,False
+424,Ambipom,Normal,482,75,100,66,60,66,115,523,images/523.png,ambipom,False
+425,Drifloon,Ghost  Flying,348,90,50,34,60,44,70,524,images/524.png,drifloon,False
+426,Drifblim,Ghost  Flying,498,150,80,44,90,54,80,525,images/525.png,drifblim,False
+427,Buneary,Normal,350,55,66,44,44,56,85,526,images/526.png,buneary,False
+428,Lopunny,Normal,480,65,76,84,54,96,105,527,images/527.png,lopunny,False
+428,Lopunny  Mega Lopunny,Normal  Fighting,580,65,136,94,54,96,135,528,images/528.png,lopunny-mega,True
+429,Mismagius,Ghost,495,60,60,60,105,105,105,529,images/529.png,mismagius,False
+430,Honchkrow,Dark  Flying,505,100,125,52,105,52,71,530,images/530.png,honchkrow,False
+431,Glameow,Normal,310,49,55,42,42,37,85,531,images/531.png,glameow,False
+432,Purugly,Normal,452,71,82,64,64,59,112,532,images/532.png,purugly,False
+433,Chingling,Psychic,285,45,30,50,65,50,45,533,images/533.png,chingling,False
+434,Stunky,Poison  Dark,329,63,63,47,41,41,74,534,images/534.png,stunky,False
+435,Skuntank,Poison  Dark,479,103,93,67,71,61,84,535,images/535.png,skuntank,False
+436,Bronzor,Steel  Psychic,300,57,24,86,24,86,23,536,images/536.png,bronzor,False
+437,Bronzong,Steel  Psychic,500,67,89,116,79,116,33,537,images/537.png,bronzong,False
+438,Bonsly,Rock,290,50,80,95,10,45,10,538,images/538.png,bonsly,False
+439,Mime Jr.,Psychic  Fairy,310,20,25,45,70,90,60,539,images/539.png,mime-jr,False
+440,Happiny,Normal,220,100,5,5,15,65,30,540,images/540.png,happiny,False
+441,Chatot,Normal  Flying,411,76,65,45,92,42,91,541,images/541.png,chatot,False
+442,Spiritomb,Ghost  Dark,485,50,92,108,92,108,35,542,images/542.png,spiritomb,False
+443,Gible,Dragon  Ground,300,58,70,45,40,45,42,543,images/543.png,gible,False
+444,Gabite,Dragon  Ground,410,68,90,65,50,55,82,544,images/544.png,gabite,False
+445,Garchomp,Dragon  Ground,600,108,130,95,80,85,102,545,images/545.png,garchomp,False
+445,Garchomp  Mega Garchomp,Dragon  Ground,700,108,170,115,120,95,92,546,images/546.png,garchomp-mega,True
+446,Munchlax,Normal,390,135,85,40,40,85,5,547,images/547.png,munchlax,False
+447,Riolu,Fighting,285,40,70,40,35,40,60,548,images/548.png,riolu,False
+448,Lucario,Fighting  Steel,525,70,110,70,115,70,90,549,images/549.png,lucario,False
+448,Lucario  Mega Lucario,Fighting  Steel,625,70,145,88,140,70,112,550,images/550.png,lucario-mega,True
+449,Hippopotas,Ground,330,68,72,78,38,42,32,551,images/551.png,hippopotas,False
+450,Hippowdon,Ground,525,108,112,118,68,72,47,552,images/552.png,hippowdon,False
+451,Skorupi,Poison  Bug,330,40,50,90,30,55,65,553,images/553.png,skorupi,False
+452,Drapion,Poison  Dark,500,70,90,110,60,75,95,554,images/554.png,drapion,False
+453,Croagunk,Poison  Fighting,300,48,61,40,61,40,50,555,images/555.png,croagunk,False
+454,Toxicroak,Poison  Fighting,490,83,106,65,86,65,85,556,images/556.png,toxicroak,False
+455,Carnivine,Grass,454,74,100,72,90,72,46,557,images/557.png,carnivine,False
+456,Finneon,Water,330,49,49,56,49,61,66,558,images/558.png,finneon,False
+457,Lumineon,Water,460,69,69,76,69,86,91,559,images/559.png,lumineon,False
+458,Mantyke,Water  Flying,345,45,20,50,60,120,50,560,images/560.png,mantyke,False
+459,Snover,Grass  Ice,334,60,62,50,62,60,40,561,images/561.png,snover,False
+460,Abomasnow,Grass  Ice,494,90,92,75,92,85,60,562,images/562.png,abomasnow,False
+460,Abomasnow  Mega Abomasnow,Grass  Ice,594,90,132,105,132,105,30,563,images/563.png,abomasnow-mega,True
+461,Weavile,Dark  Ice,510,70,120,65,45,85,125,564,images/564.png,weavile,False
+462,Magnezone,Electric  Steel,535,70,70,115,130,90,60,565,images/565.png,magnezone,False
+463,Lickilicky,Normal,515,110,85,95,80,95,50,566,images/566.png,lickilicky,False
+464,Rhyperior,Ground  Rock,535,115,140,130,55,55,40,567,images/567.png,rhyperior,False
+465,Tangrowth,Grass,535,100,100,125,110,50,50,568,images/568.png,tangrowth,False
+466,Electivire,Electric,540,75,123,67,95,85,95,569,images/569.png,electivire,False
+467,Magmortar,Fire,540,75,95,67,125,95,83,570,images/570.png,magmortar,False
+468,Togekiss,Fairy  Flying,545,85,50,95,120,115,80,571,images/571.png,togekiss,False
+469,Yanmega,Bug  Flying,515,86,76,86,116,56,95,572,images/572.png,yanmega,False
+470,Leafeon,Grass,525,65,110,130,60,65,95,573,images/573.png,leafeon,False
+471,Glaceon,Ice,525,65,60,110,130,95,65,574,images/574.png,glaceon,False
+472,Gliscor,Ground  Flying,510,75,95,125,45,75,95,575,images/575.png,gliscor,False
+473,Mamoswine,Ice  Ground,530,110,130,80,70,60,80,576,images/576.png,mamoswine,False
+474,Porygon-Z,Normal,535,85,80,70,135,75,90,577,images/577.png,porygon-z,False
+475,Gallade,Psychic  Fighting,518,68,125,65,65,115,80,578,images/578.png,gallade,False
+475,Gallade  Mega Gallade,Psychic  Fighting,618,68,165,95,65,115,110,579,images/579.png,gallade-mega,True
+476,Probopass,Rock  Steel,525,60,55,145,75,150,40,580,images/580.png,probopass,False
+477,Dusknoir,Ghost,525,45,100,135,65,135,45,581,images/581.png,dusknoir,False
+478,Froslass,Ice  Ghost,480,70,80,70,80,70,110,582,images/582.png,froslass,False
+479,Rotom,Electric  Ghost,440,50,50,77,95,77,91,583,images/583.png,rotom,False
+479,Rotom  Heat Rotom,Electric  Fire,520,50,65,107,105,107,86,584,images/584.png,rotom-heat-rotom,False
+479,Rotom  Wash Rotom,Electric  Water,520,50,65,107,105,107,86,585,images/585.png,rotom-wash-rotom,False
+479,Rotom  Frost Rotom,Electric  Ice,520,50,65,107,105,107,86,586,images/586.png,rotom-frost-rotom,False
+479,Rotom  Fan Rotom,Electric  Flying,520,50,65,107,105,107,86,587,images/587.png,rotom-fan-rotom,False
+479,Rotom  Mow Rotom,Electric  Grass,520,50,65,107,105,107,86,588,images/588.png,rotom-mow-rotom,False
+480,Uxie,Psychic,580,75,75,130,75,130,95,589,images/589.png,uxie,False
+481,Mesprit,Psychic,580,80,105,105,105,105,80,590,images/590.png,mesprit,False
+482,Azelf,Psychic,580,75,125,70,125,70,115,591,images/591.png,azelf,False
+483,Dialga,Steel  Dragon,680,100,120,120,150,100,90,592,images/592.png,dialga,False
+483,Dialga  Origin Forme,Steel  Dragon,680,100,100,120,150,120,90,593,images/593.png,dialga-origin-forme,False
+484,Palkia,Water  Dragon,680,90,120,100,150,120,100,594,images/594.png,palkia,False
+484,Palkia  Origin Forme,Water  Dragon,680,90,100,100,150,120,120,595,images/595.png,palkia-origin-forme,False
+485,Heatran,Fire  Steel,600,91,90,106,130,106,77,596,images/596.png,heatran,False
+486,Regigigas,Normal,670,110,160,110,80,110,100,597,images/597.png,regigigas,False
+487,Giratina  Altered Forme,Ghost  Dragon,680,150,100,120,100,120,90,598,images/598.png,giratina-altered-forme,False
+487,Giratina  Origin Forme,Ghost  Dragon,680,150,120,100,120,100,90,599,images/599.png,giratina-origin-forme,False
+488,Cresselia,Psychic,580,120,70,110,75,120,85,600,images/600.png,cresselia,False
+489,Phione,Water,480,80,80,80,80,80,80,601,images/601.png,phione,False
+490,Manaphy,Water,600,100,100,100,100,100,100,602,images/602.png,manaphy,False
+491,Darkrai,Dark,600,70,90,90,135,90,125,603,images/603.png,darkrai,False
+492,Shaymin  Land Forme,Grass,600,100,100,100,100,100,100,604,images/604.png,shaymin-land-forme,False
+492,Shaymin  Sky Forme,Grass  Flying,600,100,103,75,120,75,127,605,images/605.png,shaymin-sky-forme,False
+493,Arceus,Normal,720,120,120,120,120,120,120,606,images/606.png,arceus,False
+494,Victini,Psychic  Fire,600,100,100,100,100,100,100,607,images/607.png,victini,False
+495,Snivy,Grass,308,45,45,55,45,55,63,608,images/608.png,snivy,False
+496,Servine,Grass,413,60,60,75,60,75,83,609,images/609.png,servine,False
+497,Serperior,Grass,528,75,75,95,75,95,113,610,images/610.png,serperior,False
+498,Tepig,Fire,308,65,63,45,45,45,45,611,images/611.png,tepig,False
+499,Pignite,Fire  Fighting,418,90,93,55,70,55,55,612,images/612.png,pignite,False
+500,Emboar,Fire  Fighting,528,110,123,65,100,65,65,613,images/613.png,emboar,False
+501,Oshawott,Water,308,55,55,45,63,45,45,614,images/614.png,oshawott,False
+502,Dewott,Water,413,75,75,60,83,60,60,615,images/615.png,dewott,False
+503,Samurott,Water,528,95,100,85,108,70,70,616,images/616.png,samurott,False
+503,Samurott  Hisuian Samurott,Water  Dark,528,90,108,80,100,65,85,617,images/617.png,samurott-hisuian-samurott,False
+504,Patrat,Normal,255,45,55,39,35,39,42,618,images/618.png,patrat,False
+505,Watchog,Normal,420,60,85,69,60,69,77,619,images/619.png,watchog,False
+506,Lillipup,Normal,275,45,60,45,25,45,55,620,images/620.png,lillipup,False
+507,Herdier,Normal,370,65,80,65,35,65,60,621,images/621.png,herdier,False
+508,Stoutland,Normal,500,85,110,90,45,90,80,622,images/622.png,stoutland,False
+509,Purrloin,Dark,281,41,50,37,50,37,66,623,images/623.png,purrloin,False
+510,Liepard,Dark,446,64,88,50,88,50,106,624,images/624.png,liepard,False
+511,Pansage,Grass,316,50,53,48,53,48,64,625,images/625.png,pansage,False
+512,Simisage,Grass,498,75,98,63,98,63,101,626,images/626.png,simisage,False
+513,Pansear,Fire,316,50,53,48,53,48,64,627,images/627.png,pansear,False
+514,Simisear,Fire,498,75,98,63,98,63,101,628,images/628.png,simisear,False
+515,Panpour,Water,316,50,53,48,53,48,64,629,images/629.png,panpour,False
+516,Simipour,Water,498,75,98,63,98,63,101,630,images/630.png,simipour,False
+517,Munna,Psychic,292,76,25,45,67,55,24,631,images/631.png,munna,False
+518,Musharna,Psychic,487,116,55,85,107,95,29,632,images/632.png,musharna,False
+519,Pidove,Normal  Flying,264,50,55,50,36,30,43,633,images/633.png,pidove,False
+520,Tranquill,Normal  Flying,358,62,77,62,50,42,65,634,images/634.png,tranquill,False
+521,Unfezant,Normal  Flying,488,80,115,80,65,55,93,635,images/635.png,unfezant,False
+522,Blitzle,Electric,295,45,60,32,50,32,76,636,images/636.png,blitzle,False
+523,Zebstrika,Electric,497,75,100,63,80,63,116,637,images/637.png,zebstrika,False
+524,Roggenrola,Rock,280,55,75,85,25,25,15,638,images/638.png,roggenrola,False
+525,Boldore,Rock,390,70,105,105,50,40,20,639,images/639.png,boldore,False
+526,Gigalith,Rock,515,85,135,130,60,80,25,640,images/640.png,gigalith,False
+527,Woobat,Psychic  Flying,323,65,45,43,55,43,72,641,images/641.png,woobat,False
+528,Swoobat,Psychic  Flying,425,67,57,55,77,55,114,642,images/642.png,swoobat,False
+529,Drilbur,Ground,328,60,85,40,30,45,68,643,images/643.png,drilbur,False
+530,Excadrill,Ground  Steel,508,110,135,60,50,65,88,644,images/644.png,excadrill,False
+531,Audino,Normal,445,103,60,86,60,86,50,645,images/645.png,audino,False
+531,Audino  Mega Audino,Normal  Fairy,545,103,60,126,80,126,50,646,images/646.png,audino-mega,True
+532,Timburr,Fighting,305,75,80,55,25,35,35,647,images/647.png,timburr,False
+533,Gurdurr,Fighting,405,85,105,85,40,50,40,648,images/648.png,gurdurr,False
+534,Conkeldurr,Fighting,505,105,140,95,55,65,45,649,images/649.png,conkeldurr,False
+535,Tympole,Water,294,50,50,40,50,40,64,650,images/650.png,tympole,False
+536,Palpitoad,Water  Ground,384,75,65,55,65,55,69,651,images/651.png,palpitoad,False
+537,Seismitoad,Water  Ground,509,105,95,75,85,75,74,652,images/652.png,seismitoad,False
+538,Throh,Fighting,465,120,100,85,30,85,45,653,images/653.png,throh,False
+539,Sawk,Fighting,465,75,125,75,30,75,85,654,images/654.png,sawk,False
+540,Sewaddle,Bug  Grass,310,45,53,70,40,60,42,655,images/655.png,sewaddle,False
+541,Swadloon,Bug  Grass,380,55,63,90,50,80,42,656,images/656.png,swadloon,False
+542,Leavanny,Bug  Grass,500,75,103,80,70,80,92,657,images/657.png,leavanny,False
+543,Venipede,Bug  Poison,260,30,45,59,30,39,57,658,images/658.png,venipede,False
+544,Whirlipede,Bug  Poison,360,40,55,99,40,79,47,659,images/659.png,whirlipede,False
+545,Scolipede,Bug  Poison,485,60,100,89,55,69,112,660,images/660.png,scolipede,False
+546,Cottonee,Grass  Fairy,280,40,27,60,37,50,66,661,images/661.png,cottonee,False
+547,Whimsicott,Grass  Fairy,480,60,67,85,77,75,116,662,images/662.png,whimsicott,False
+548,Petilil,Grass,280,45,35,50,70,50,30,663,images/663.png,petilil,False
+549,Lilligant,Grass,480,70,60,75,110,75,90,664,images/664.png,lilligant,False
+549,Lilligant  Hisuian Lilligant,Grass  Fighting,480,70,105,75,50,75,105,665,images/665.png,lilligant-hisuian-lilligant,False
+550,Basculin  Red-Striped Form,Water,460,70,92,65,80,55,98,666,images/666.png,basculin-red-striped-form,False
+550,Basculin  Blue-Striped Form,Water,460,70,92,65,80,55,98,667,images/667.png,basculin-blue-striped-form,False
+550,Basculin  White-Striped Form,Water,460,70,92,65,80,55,98,668,images/668.png,basculin-white-striped-form,False
+551,Sandile,Ground  Dark,292,50,72,35,35,35,65,669,images/669.png,sandile,False
+552,Krokorok,Ground  Dark,351,60,82,45,45,45,74,670,images/670.png,krokorok,False
+553,Krookodile,Ground  Dark,519,95,117,80,65,70,92,671,images/671.png,krookodile,False
+554,Darumaka,Fire,315,70,90,45,15,45,50,672,images/672.png,darumaka,False
+554,Darumaka  Galarian Darumaka,Ice,315,70,90,45,15,45,50,673,images/673.png,darumaka-galarian-darumaka,False
+555,Darmanitan  Standard Mode,Fire,480,105,140,55,30,55,95,674,images/674.png,darmanitan-standard-mode,False
+555,Darmanitan  Zen Mode,Fire  Psychic,540,105,30,105,140,105,55,675,images/675.png,darmanitan-zen-mode,False
+555,Darmanitan  Galarian Standard Mode,Ice,480,105,140,55,30,55,95,676,images/676.png,darmanitan-galarian-standard-mode,False
+555,Darmanitan  Galarian Zen Mode,Ice  Fire,540,105,160,55,30,55,135,677,images/677.png,darmanitan-galarian-zen-mode,False
+556,Maractus,Grass,461,75,86,67,106,67,60,678,images/678.png,maractus,False
+557,Dwebble,Bug  Rock,325,50,65,85,35,35,55,679,images/679.png,dwebble,False
+558,Crustle,Bug  Rock,485,70,105,125,65,75,45,680,images/680.png,crustle,False
+559,Scraggy,Dark  Fighting,348,50,75,70,35,70,48,681,images/681.png,scraggy,False
+560,Scrafty,Dark  Fighting,488,65,90,115,45,115,58,682,images/682.png,scrafty,False
+561,Sigilyph,Psychic  Flying,490,72,58,80,103,80,97,683,images/683.png,sigilyph,False
+562,Yamask,Ghost,303,38,30,85,55,65,30,684,images/684.png,yamask,False
+562,Yamask  Galarian Yamask,Ground  Ghost,303,38,55,85,30,65,30,685,images/685.png,yamask-galarian-yamask,False
+563,Cofagrigus,Ghost,483,58,50,145,95,105,30,686,images/686.png,cofagrigus,False
+564,Tirtouga,Water  Rock,355,54,78,103,53,45,22,687,images/687.png,tirtouga,False
+565,Carracosta,Water  Rock,495,74,108,133,83,65,32,688,images/688.png,carracosta,False
+566,Archen,Rock  Flying,401,55,112,45,74,45,70,689,images/689.png,archen,False
+567,Archeops,Rock  Flying,567,75,140,65,112,65,110,690,images/690.png,archeops,False
+568,Trubbish,Poison,329,50,50,62,40,62,65,691,images/691.png,trubbish,False
+569,Garbodor,Poison,474,80,95,82,60,82,75,692,images/692.png,garbodor,False
+570,Zorua,Dark,330,40,65,40,80,40,65,693,images/693.png,zorua,False
+570,Zorua  Hisuian Zorua,Normal  Ghost,330,35,60,40,85,40,70,694,images/694.png,zorua-hisuian-zorua,False
+571,Zoroark,Dark,510,60,105,60,120,60,105,695,images/695.png,zoroark,False
+571,Zoroark  Hisuian Zoroark,Normal  Ghost,510,55,100,60,125,60,110,696,images/696.png,zoroark-hisuian-zoroark,False
+572,Minccino,Normal,300,55,50,40,40,40,75,697,images/697.png,minccino,False
+573,Cinccino,Normal,470,75,95,60,65,60,115,698,images/698.png,cinccino,False
+574,Gothita,Psychic,290,45,30,50,55,65,45,699,images/699.png,gothita,False
+575,Gothorita,Psychic,390,60,45,70,75,85,55,700,images/700.png,gothorita,False
+576,Gothitelle,Psychic,490,70,55,95,95,110,65,701,images/701.png,gothitelle,False
+577,Solosis,Psychic,290,45,30,40,105,50,20,702,images/702.png,solosis,False
+578,Duosion,Psychic,370,65,40,50,125,60,30,703,images/703.png,duosion,False
+579,Reuniclus,Psychic,490,110,65,75,125,85,30,704,images/704.png,reuniclus,False
+580,Ducklett,Water  Flying,305,62,44,50,44,50,55,705,images/705.png,ducklett,False
+581,Swanna,Water  Flying,473,75,87,63,87,63,98,706,images/706.png,swanna,False
+582,Vanillite,Ice,305,36,50,50,65,60,44,707,images/707.png,vanillite,False
+583,Vanillish,Ice,395,51,65,65,80,75,59,708,images/708.png,vanillish,False
+584,Vanilluxe,Ice,535,71,95,85,110,95,79,709,images/709.png,vanilluxe,False
+585,Deerling,Normal  Grass,335,60,60,50,40,50,75,710,images/710.png,deerling,False
+586,Sawsbuck,Normal  Grass,475,80,100,70,60,70,95,711,images/711.png,sawsbuck,False
+587,Emolga,Electric  Flying,428,55,75,60,75,60,103,712,images/712.png,emolga,False
+588,Karrablast,Bug,315,50,75,45,40,45,60,713,images/713.png,karrablast,False
+589,Escavalier,Bug  Steel,495,70,135,105,60,105,20,714,images/714.png,escavalier,False
+590,Foongus,Grass  Poison,294,69,55,45,55,55,15,715,images/715.png,foongus,False
+591,Amoonguss,Grass  Poison,464,114,85,70,85,80,30,716,images/716.png,amoonguss,False
+592,Frillish,Water  Ghost,335,55,40,50,65,85,40,717,images/717.png,frillish,False
+593,Jellicent,Water  Ghost,480,100,60,70,85,105,60,718,images/718.png,jellicent,False
+594,Alomomola,Water,470,165,75,80,40,45,65,719,images/719.png,alomomola,False
+595,Joltik,Bug  Electric,319,50,47,50,57,50,65,720,images/720.png,joltik,False
+596,Galvantula,Bug  Electric,472,70,77,60,97,60,108,721,images/721.png,galvantula,False
+597,Ferroseed,Grass  Steel,305,44,50,91,24,86,10,722,images/722.png,ferroseed,False
+598,Ferrothorn,Grass  Steel,489,74,94,131,54,116,20,723,images/723.png,ferrothorn,False
+599,Klink,Steel,300,40,55,70,45,60,30,724,images/724.png,klink,False
+600,Klang,Steel,440,60,80,95,70,85,50,725,images/725.png,klang,False
+601,Klinklang,Steel,520,60,100,115,70,85,90,726,images/726.png,klinklang,False
+602,Tynamo,Electric,275,35,55,40,45,40,60,727,images/727.png,tynamo,False
+603,Eelektrik,Electric,405,65,85,70,75,70,40,728,images/728.png,eelektrik,False
+604,Eelektross,Electric,515,85,115,80,105,80,50,729,images/729.png,eelektross,False
+605,Elgyem,Psychic,335,55,55,55,85,55,30,730,images/730.png,elgyem,False
+606,Beheeyem,Psychic,485,75,75,75,125,95,40,731,images/731.png,beheeyem,False
+607,Litwick,Ghost  Fire,275,50,30,55,65,55,20,732,images/732.png,litwick,False
+608,Lampent,Ghost  Fire,370,60,40,60,95,60,55,733,images/733.png,lampent,False
+609,Chandelure,Ghost  Fire,520,60,55,90,145,90,80,734,images/734.png,chandelure,False
+610,Axew,Dragon,320,46,87,60,30,40,57,735,images/735.png,axew,False
+611,Fraxure,Dragon,410,66,117,70,40,50,67,736,images/736.png,fraxure,False
+612,Haxorus,Dragon,540,76,147,90,60,70,97,737,images/737.png,haxorus,False
+613,Cubchoo,Ice,305,55,70,40,60,40,40,738,images/738.png,cubchoo,False
+614,Beartic,Ice,505,95,130,80,70,80,50,739,images/739.png,beartic,False
+615,Cryogonal,Ice,515,80,50,50,95,135,105,740,images/740.png,cryogonal,False
+616,Shelmet,Bug,305,50,40,85,40,65,25,741,images/741.png,shelmet,False
+617,Accelgor,Bug,495,80,70,40,100,60,145,742,images/742.png,accelgor,False
+618,Stunfisk,Ground  Electric,471,109,66,84,81,99,32,743,images/743.png,stunfisk,False
+618,Stunfisk  Galarian Stunfisk,Ground  Steel,471,109,81,99,66,84,32,744,images/744.png,stunfisk-galarian-stunfisk,False
+619,Mienfoo,Fighting,350,45,85,50,55,50,65,745,images/745.png,mienfoo,False
+620,Mienshao,Fighting,510,65,125,60,95,60,105,746,images/746.png,mienshao,False
+621,Druddigon,Dragon,485,77,120,90,60,90,48,747,images/747.png,druddigon,False
+622,Golett,Ground  Ghost,303,59,74,50,35,50,35,748,images/748.png,golett,False
+623,Golurk,Ground  Ghost,483,89,124,80,55,80,55,749,images/749.png,golurk,False
+624,Pawniard,Dark  Steel,340,45,85,70,40,40,60,750,images/750.png,pawniard,False
+625,Bisharp,Dark  Steel,490,65,125,100,60,70,70,751,images/751.png,bisharp,False
+626,Bouffalant,Normal,490,95,110,95,40,95,55,752,images/752.png,bouffalant,False
+627,Rufflet,Normal  Flying,350,70,83,50,37,50,60,753,images/753.png,rufflet,False
+628,Braviary,Normal  Flying,510,100,123,75,57,75,80,754,images/754.png,braviary,False
+628,Braviary  Hisuian Braviary,Psychic  Flying,510,110,83,70,112,70,65,755,images/755.png,braviary-hisuian-braviary,False
+629,Vullaby,Dark  Flying,370,70,55,75,45,65,60,756,images/756.png,vullaby,False
+630,Mandibuzz,Dark  Flying,510,110,65,105,55,95,80,757,images/757.png,mandibuzz,False
+631,Heatmor,Fire,484,85,97,66,105,66,65,758,images/758.png,heatmor,False
+632,Durant,Bug  Steel,484,58,109,112,48,48,109,759,images/759.png,durant,False
+633,Deino,Dark  Dragon,300,52,65,50,45,50,38,760,images/760.png,deino,False
+634,Zweilous,Dark  Dragon,420,72,85,70,65,70,58,761,images/761.png,zweilous,False
+635,Hydreigon,Dark  Dragon,600,92,105,90,125,90,98,762,images/762.png,hydreigon,False
+636,Larvesta,Bug  Fire,360,55,85,55,50,55,60,763,images/763.png,larvesta,False
+637,Volcarona,Bug  Fire,550,85,60,65,135,105,100,764,images/764.png,volcarona,False
+638,Cobalion,Steel  Fighting,580,91,90,129,90,72,108,765,images/765.png,cobalion,False
+639,Terrakion,Rock  Fighting,580,91,129,90,72,90,108,766,images/766.png,terrakion,False
+640,Virizion,Grass  Fighting,580,91,90,72,90,129,108,767,images/767.png,virizion,False
+641,Tornadus  Incarnate Forme,Flying,580,79,115,70,125,80,111,768,images/768.png,tornadus-incarnate-forme,False
+641,Tornadus  Therian Forme,Flying,580,79,100,80,110,90,121,769,images/769.png,tornadus-therian-forme,False
+642,Thundurus  Incarnate Forme,Electric  Flying,580,79,115,70,125,80,111,770,images/770.png,thundurus-incarnate-forme,False
+642,Thundurus  Therian Forme,Electric  Flying,580,79,105,70,145,80,101,771,images/771.png,thundurus-therian-forme,False
+643,Reshiram,Dragon  Fire,680,100,120,100,150,120,90,772,images/772.png,reshiram,False
+644,Zekrom,Dragon  Electric,680,100,150,120,120,100,90,773,images/773.png,zekrom,False
+645,Landorus  Incarnate Forme,Ground  Flying,600,89,125,90,115,80,101,774,images/774.png,landorus-incarnate-forme,False
+645,Landorus  Therian Forme,Ground  Flying,600,89,145,90,105,80,91,775,images/775.png,landorus-therian-forme,False
+646,Kyurem,Dragon  Ice,660,125,130,90,130,90,95,776,images/776.png,kyurem,False
+646,Kyurem  White Kyurem,Dragon  Ice,700,125,120,90,170,100,95,777,images/777.png,kyurem-white-kyurem,False
+646,Kyurem  Black Kyurem,Dragon  Ice,700,125,170,100,120,90,95,778,images/778.png,kyurem-black-kyurem,False
+647,Keldeo  Ordinary Form,Water  Fighting,580,91,72,90,129,90,108,779,images/779.png,keldeo-ordinary-form,False
+647,Keldeo  Resolute Form,Water  Fighting,580,91,72,90,129,90,108,780,images/780.png,keldeo-resolute-form,False
+648,Meloetta  Aria Forme,Normal  Psychic,600,100,77,77,128,128,90,781,images/781.png,meloetta-aria-forme,False
+648,Meloetta  Pirouette Forme,Normal  Fighting,600,100,128,90,77,77,128,782,images/782.png,meloetta-pirouette-forme,False
+649,Genesect,Bug  Steel,600,71,120,95,120,95,99,783,images/783.png,genesect,False
+650,Chespin,Grass,313,56,61,65,48,45,38,784,images/784.png,chespin,False
+651,Quilladin,Grass,405,61,78,95,56,58,57,785,images/785.png,quilladin,False
+652,Chesnaught,Grass  Fighting,530,88,107,122,74,75,64,786,images/786.png,chesnaught,False
+653,Fennekin,Fire,307,40,45,40,62,60,60,787,images/787.png,fennekin,False
+654,Braixen,Fire,409,59,59,58,90,70,73,788,images/788.png,braixen,False
+655,Delphox,Fire  Psychic,534,75,69,72,114,100,104,789,images/789.png,delphox,False
+656,Froakie,Water,314,41,56,40,62,44,71,790,images/790.png,froakie,False
+657,Frogadier,Water,405,54,63,52,83,56,97,791,images/791.png,frogadier,False
+658,Greninja,Water  Dark,530,72,95,67,103,71,122,792,images/792.png,greninja,False
+658,Greninja  Ash-Greninja,Water  Dark,640,72,145,67,153,71,132,793,images/793.png,greninja-ash-greninja,False
+659,Bunnelby,Normal,237,38,36,38,32,36,57,794,images/794.png,bunnelby,False
+660,Diggersby,Normal  Ground,423,85,56,77,50,77,78,795,images/795.png,diggersby,False
+661,Fletchling,Normal  Flying,278,45,50,43,40,38,62,796,images/796.png,fletchling,False
+662,Fletchinder,Fire  Flying,382,62,73,55,56,52,84,797,images/797.png,fletchinder,False
+663,Talonflame,Fire  Flying,499,78,81,71,74,69,126,798,images/798.png,talonflame,False
+664,Scatterbug,Bug,200,38,35,40,27,25,35,799,images/799.png,scatterbug,False
+665,Spewpa,Bug,213,45,22,60,27,30,29,800,images/800.png,spewpa,False
+666,Vivillon,Bug  Flying,411,80,52,50,90,50,89,801,images/801.png,vivillon,False
+667,Litleo,Fire  Normal,369,62,50,58,73,54,72,802,images/802.png,litleo,False
+668,Pyroar,Fire  Normal,507,86,68,72,109,66,106,803,images/803.png,pyroar,False
+669,Flabébé,Fairy,303,44,38,39,61,79,42,804,images/804.png,flab-b,False
+670,Floette,Fairy,371,54,45,47,75,98,52,805,images/805.png,floette,False
+671,Florges,Fairy,552,78,65,68,112,154,75,806,images/806.png,florges,False
+672,Skiddo,Grass,350,66,65,48,62,57,52,807,images/807.png,skiddo,False
+673,Gogoat,Grass,531,123,100,62,97,81,68,808,images/808.png,gogoat,False
+674,Pancham,Fighting,348,67,82,62,46,48,43,809,images/809.png,pancham,False
+675,Pangoro,Fighting  Dark,495,95,124,78,69,71,58,810,images/810.png,pangoro,False
+676,Furfrou,Normal,472,75,80,60,65,90,102,811,images/811.png,furfrou,False
+677,Espurr,Psychic,355,62,48,54,63,60,68,812,images/812.png,espurr,False
+678,Meowstic  Male,Psychic,466,74,48,76,83,81,104,813,images/813.png,meowstic-male,False
+678,Meowstic  Female,Psychic,466,74,48,76,83,81,104,814,images/814.png,meowstic-female,False
+679,Honedge,Steel  Ghost,325,45,80,100,35,37,28,815,images/815.png,honedge,False
+680,Doublade,Steel  Ghost,448,59,110,150,45,49,35,816,images/816.png,doublade,False
+681,Aegislash  Shield Forme,Steel  Ghost,500,60,50,140,50,140,60,817,images/817.png,aegislash-shield-forme,False
+681,Aegislash  Blade Forme,Steel  Ghost,500,60,140,50,140,50,60,818,images/818.png,aegislash-blade-forme,False
+682,Spritzee,Fairy,341,78,52,60,63,65,23,819,images/819.png,spritzee,False
+683,Aromatisse,Fairy,462,101,72,72,99,89,29,820,images/820.png,aromatisse,False
+684,Swirlix,Fairy,341,62,48,66,59,57,49,821,images/821.png,swirlix,False
+685,Slurpuff,Fairy,480,82,80,86,85,75,72,822,images/822.png,slurpuff,False
+686,Inkay,Dark  Psychic,288,53,54,53,37,46,45,823,images/823.png,inkay,False
+687,Malamar,Dark  Psychic,482,86,92,88,68,75,73,824,images/824.png,malamar,False
+687,Malamar  Mega Malamar,Dark  Psychic,582,86,102,88,98,120,88,,images/forms/mega-malamar.jpg,malamar-mega,True
+688,Binacle,Rock  Water,306,42,52,67,39,56,50,825,images/825.png,binacle,False
+689,Barbaracle,Rock  Water,500,72,105,115,54,86,68,826,images/826.png,barbaracle,False
+690,Skrelp,Poison  Water,320,50,60,60,60,60,30,827,images/827.png,skrelp,False
+691,Dragalge,Poison  Dragon,494,65,75,90,97,123,44,828,images/828.png,dragalge,False
+692,Clauncher,Water,330,50,53,62,58,63,44,829,images/829.png,clauncher,False
+693,Clawitzer,Water,500,71,73,88,120,89,59,830,images/830.png,clawitzer,False
+694,Helioptile,Electric  Normal,289,44,38,33,61,43,70,831,images/831.png,helioptile,False
+695,Heliolisk,Electric  Normal,481,62,55,52,109,94,109,832,images/832.png,heliolisk,False
+696,Tyrunt,Rock  Dragon,362,58,89,77,45,45,48,833,images/833.png,tyrunt,False
+697,Tyrantrum,Rock  Dragon,521,82,121,119,69,59,71,834,images/834.png,tyrantrum,False
+698,Amaura,Rock  Ice,362,77,59,50,67,63,46,835,images/835.png,amaura,False
+699,Aurorus,Rock  Ice,521,123,77,72,99,92,58,836,images/836.png,aurorus,False
+700,Sylveon,Fairy,525,95,65,65,110,130,60,837,images/837.png,sylveon,False
+701,Hawlucha,Fighting  Flying,500,78,92,75,74,63,118,838,images/838.png,hawlucha,False
+701,Hawlucha  Mega Hawlucha,Fighting  Flying,600,78,137,100,74,93,118,,images/forms/mega-hawlucha.jpg,hawlucha-mega,True
+702,Dedenne,Electric  Fairy,431,67,58,57,81,67,101,839,images/839.png,dedenne,False
+703,Carbink,Rock  Fairy,500,50,50,150,50,150,50,840,images/840.png,carbink,False
+704,Goomy,Dragon,300,45,50,35,55,75,40,841,images/841.png,goomy,False
+705,Sliggoo,Dragon,452,68,75,53,83,113,60,842,images/842.png,sliggoo,False
+705,Sliggoo  Hisuian Sliggoo,Steel  Dragon,452,58,75,83,83,113,40,843,images/843.png,sliggoo-hisuian-sliggoo,False
+706,Goodra,Dragon,600,90,100,70,110,150,80,844,images/844.png,goodra,False
+706,Goodra  Hisuian Goodra,Steel  Dragon,600,80,100,100,110,150,60,845,images/845.png,goodra-hisuian-goodra,False
+707,Klefki,Steel  Fairy,470,57,80,91,80,87,75,846,images/846.png,klefki,False
+708,Phantump,Ghost  Grass,309,43,70,48,50,60,38,847,images/847.png,phantump,False
+709,Trevenant,Ghost  Grass,474,85,110,76,65,82,56,848,images/848.png,trevenant,False
+710,Pumpkaboo  Average Size,Ghost  Grass,335,49,66,70,44,55,51,849,images/849.png,pumpkaboo-average-size,False
+710,Pumpkaboo  Small Size,Ghost  Grass,335,44,66,70,44,55,56,850,images/850.png,pumpkaboo-small-size,False
+710,Pumpkaboo  Large Size,Ghost  Grass,335,54,66,70,44,55,46,851,images/851.png,pumpkaboo-large-size,False
+710,Pumpkaboo  Super Size,Ghost  Grass,335,59,66,70,44,55,41,852,images/852.png,pumpkaboo-super-size,False
+711,Gourgeist  Average Size,Ghost  Grass,494,65,90,122,58,75,84,853,images/853.png,gourgeist-average-size,False
+711,Gourgeist  Small Size,Ghost  Grass,494,55,85,122,58,75,99,854,images/854.png,gourgeist-small-size,False
+711,Gourgeist  Large Size,Ghost  Grass,494,75,95,122,58,75,69,855,images/855.png,gourgeist-large-size,False
+711,Gourgeist  Super Size,Ghost  Grass,494,85,100,122,58,75,54,856,images/856.png,gourgeist-super-size,False
+712,Bergmite,Ice,304,55,69,85,32,35,28,857,images/857.png,bergmite,False
+713,Avalugg,Ice,514,95,117,184,44,46,28,858,images/858.png,avalugg,False
+713,Avalugg  Hisuian Avalugg,Ice  Rock,514,95,127,184,34,36,38,859,images/859.png,avalugg-hisuian-avalugg,False
+714,Noibat,Flying  Dragon,245,40,30,35,45,40,55,860,images/860.png,noibat,False
+715,Noivern,Flying  Dragon,535,85,70,80,97,80,123,861,images/861.png,noivern,False
+716,Xerneas,Fairy,680,126,131,95,131,98,99,862,images/862.png,xerneas,False
+717,Yveltal,Dark  Flying,680,126,131,95,131,98,99,863,images/863.png,yveltal,False
+718,Zygarde  50% Forme,Dragon  Ground,600,108,100,121,81,95,95,864,images/864.png,zygarde-50-forme,False
+718,Zygarde  10% Forme,Dragon  Ground,486,54,100,71,61,85,115,865,images/865.png,zygarde-10-forme,False
+718,Zygarde  Complete Forme,Dragon  Ground,708,216,100,121,91,95,85,866,images/866.png,zygarde-complete-forme,False
+719,Diancie,Rock  Fairy,600,50,100,150,100,150,50,867,images/867.png,diancie,False
+719,Diancie  Mega Diancie,Rock  Fairy,700,50,160,110,160,110,110,868,images/868.png,diancie-mega,True
+720,Hoopa  Hoopa Confined,Psychic  Ghost,600,80,110,60,150,130,70,869,images/869.png,hoopa-hoopa-confined,False
+720,Hoopa  Hoopa Unbound,Psychic  Dark,680,80,160,60,170,130,80,870,images/870.png,hoopa-hoopa-unbound,False
+721,Volcanion,Fire  Water,600,80,110,120,130,90,70,871,images/871.png,volcanion,False
+722,Rowlet,Grass  Flying,320,68,55,55,50,50,42,872,images/872.png,rowlet,False
+723,Dartrix,Grass  Flying,420,78,75,75,70,70,52,873,images/873.png,dartrix,False
+724,Decidueye,Grass  Ghost,530,78,107,75,100,100,70,874,images/874.png,decidueye,False
+724,Decidueye  Hisuian Decidueye,Grass  Fighting,530,88,112,80,95,95,60,875,images/875.png,decidueye-hisuian-decidueye,False
+725,Litten,Fire,320,45,65,40,60,40,70,876,images/876.png,litten,False
+726,Torracat,Fire,420,65,85,50,80,50,90,877,images/877.png,torracat,False
+727,Incineroar,Fire  Dark,530,95,115,90,80,90,60,878,images/878.png,incineroar,False
+728,Popplio,Water,320,50,54,54,66,56,40,879,images/879.png,popplio,False
+729,Brionne,Water,420,60,69,69,91,81,50,880,images/880.png,brionne,False
+730,Primarina,Water  Fairy,530,80,74,74,126,116,60,881,images/881.png,primarina,False
+731,Pikipek,Normal  Flying,265,35,75,30,30,30,65,882,images/882.png,pikipek,False
+732,Trumbeak,Normal  Flying,355,55,85,50,40,50,75,883,images/883.png,trumbeak,False
+733,Toucannon,Normal  Flying,485,80,120,75,75,75,60,884,images/884.png,toucannon,False
+734,Yungoos,Normal,253,48,70,30,30,30,45,885,images/885.png,yungoos,False
+735,Gumshoos,Normal,418,88,110,60,55,60,45,886,images/886.png,gumshoos,False
+736,Grubbin,Bug,300,47,62,45,55,45,46,887,images/887.png,grubbin,False
+737,Charjabug,Bug  Electric,400,57,82,95,55,75,36,888,images/888.png,charjabug,False
+738,Vikavolt,Bug  Electric,500,77,70,90,145,75,43,889,images/889.png,vikavolt,False
+739,Crabrawler,Fighting,338,47,82,57,42,47,63,890,images/890.png,crabrawler,False
+740,Crabominable,Fighting  Ice,478,97,132,77,62,67,43,891,images/891.png,crabominable,False
+741,Oricorio  Baile Style,Fire  Flying,476,75,70,70,98,70,93,892,images/892.png,oricorio-baile-style,False
+741,Oricorio  Pom-Pom Style,Electric  Flying,476,75,70,70,98,70,93,893,images/893.png,oricorio-pom-pom-style,False
+741,Oricorio  Pa'u Style,Psychic  Flying,476,75,70,70,98,70,93,894,images/894.png,oricorio-pa-u-style,False
+741,Oricorio  Sensu Style,Ghost  Flying,476,75,70,70,98,70,93,895,images/895.png,oricorio-sensu-style,False
+742,Cutiefly,Bug  Fairy,304,40,45,40,55,40,84,896,images/896.png,cutiefly,False
+743,Ribombee,Bug  Fairy,464,60,55,60,95,70,124,897,images/897.png,ribombee,False
+744,Rockruff,Rock,280,45,65,40,30,40,60,898,images/898.png,rockruff,False
+744,Rockruff  Own Tempo Rockruff,Rock,280,45,65,40,30,40,60,899,images/899.png,rockruff-own-tempo-rockruff,False
+745,Lycanroc  Midday Form,Rock,487,75,115,65,55,65,112,900,images/900.png,lycanroc-midday-form,False
+745,Lycanroc  Midnight Form,Rock,487,85,115,75,55,75,82,901,images/901.png,lycanroc-midnight-form,False
+745,Lycanroc  Dusk Form,Rock,487,75,117,65,55,65,110,902,images/902.png,lycanroc-dusk-form,False
+746,Wishiwashi  Solo Form,Water,175,45,20,20,25,25,40,903,images/903.png,wishiwashi-solo-form,False
+746,Wishiwashi  School Form,Water,620,45,140,130,140,135,30,904,images/904.png,wishiwashi-school-form,False
+747,Mareanie,Poison  Water,305,50,53,62,43,52,45,905,images/905.png,mareanie,False
+748,Toxapex,Poison  Water,495,50,63,152,53,142,35,906,images/906.png,toxapex,False
+749,Mudbray,Ground,385,70,100,70,45,55,45,907,images/907.png,mudbray,False
+750,Mudsdale,Ground,500,100,125,100,55,85,35,908,images/908.png,mudsdale,False
+751,Dewpider,Water  Bug,269,38,40,52,40,72,27,909,images/909.png,dewpider,False
+752,Araquanid,Water  Bug,454,68,70,92,50,132,42,910,images/910.png,araquanid,False
+753,Fomantis,Grass,250,40,55,35,50,35,35,911,images/911.png,fomantis,False
+754,Lurantis,Grass,480,70,105,90,80,90,45,912,images/912.png,lurantis,False
+755,Morelull,Grass  Fairy,285,40,35,55,65,75,15,913,images/913.png,morelull,False
+756,Shiinotic,Grass  Fairy,405,60,45,80,90,100,30,914,images/914.png,shiinotic,False
+757,Salandit,Poison  Fire,320,48,44,40,71,40,77,915,images/915.png,salandit,False
+758,Salazzle,Poison  Fire,480,68,64,60,111,60,117,916,images/916.png,salazzle,False
+759,Stufful,Normal  Fighting,340,70,75,50,45,50,50,917,images/917.png,stufful,False
+760,Bewear,Normal  Fighting,500,120,125,80,55,60,60,918,images/918.png,bewear,False
+761,Bounsweet,Grass,210,42,30,38,30,38,32,919,images/919.png,bounsweet,False
+762,Steenee,Grass,290,52,40,48,40,48,62,920,images/920.png,steenee,False
+763,Tsareena,Grass,510,72,120,98,50,98,72,921,images/921.png,tsareena,False
+764,Comfey,Fairy,485,51,52,90,82,110,100,922,images/922.png,comfey,False
+765,Oranguru,Normal  Psychic,490,90,60,80,90,110,60,923,images/923.png,oranguru,False
+766,Passimian,Fighting,490,100,120,90,40,60,80,924,images/924.png,passimian,False
+767,Wimpod,Bug  Water,230,25,35,40,20,30,80,925,images/925.png,wimpod,False
+768,Golisopod,Bug  Water,530,75,125,140,60,90,40,926,images/926.png,golisopod,False
+769,Sandygast,Ghost  Ground,320,55,55,80,70,45,15,927,images/927.png,sandygast,False
+770,Palossand,Ghost  Ground,480,85,75,110,100,75,35,928,images/928.png,palossand,False
+771,Pyukumuku,Water,410,55,60,130,30,130,5,929,images/929.png,pyukumuku,False
+772,Type: Null,Normal,534,95,95,95,95,95,59,930,images/930.png,type-null,False
+773,Silvally,Normal,570,95,95,95,95,95,95,931,images/931.png,silvally,False
+774,Minior  Meteor Form,Rock  Flying,440,60,60,100,60,100,60,932,images/932.png,minior-meteor-form,False
+774,Minior  Core Form,Rock  Flying,500,60,100,60,100,60,120,933,images/933.png,minior-core-form,False
+775,Komala,Normal,480,65,115,65,75,95,65,934,images/934.png,komala,False
+776,Turtonator,Fire  Dragon,485,60,78,135,91,85,36,935,images/935.png,turtonator,False
+777,Togedemaru,Electric  Steel,435,65,98,63,40,73,96,936,images/936.png,togedemaru,False
+778,Mimikyu,Ghost  Fairy,476,55,90,80,50,105,96,937,images/937.png,mimikyu,False
+779,Bruxish,Water  Psychic,475,68,105,70,70,70,92,938,images/938.png,bruxish,False
+780,Drampa,Normal  Dragon,485,78,60,85,135,91,36,939,images/939.png,drampa,False
+781,Dhelmise,Ghost  Grass,517,70,131,100,86,90,40,940,images/940.png,dhelmise,False
+782,Jangmo-o,Dragon,300,45,55,65,45,45,45,941,images/941.png,jangmo-o,False
+783,Hakamo-o,Dragon  Fighting,420,55,75,90,65,70,65,942,images/942.png,hakamo-o,False
+784,Kommo-o,Dragon  Fighting,600,75,110,125,100,105,85,943,images/943.png,kommo-o,False
+785,Tapu Koko,Electric  Fairy,570,70,115,85,95,75,130,944,images/944.png,tapu-koko,False
+786,Tapu Lele,Psychic  Fairy,570,70,85,75,130,115,95,945,images/945.png,tapu-lele,False
+787,Tapu Bulu,Grass  Fairy,570,70,130,115,85,95,75,946,images/946.png,tapu-bulu,False
+788,Tapu Fini,Water  Fairy,570,70,75,115,95,130,85,947,images/947.png,tapu-fini,False
+789,Cosmog,Psychic,200,43,29,31,29,31,37,948,images/948.png,cosmog,False
+790,Cosmoem,Psychic,400,43,29,131,29,131,37,949,images/949.png,cosmoem,False
+791,Solgaleo,Psychic  Steel,680,137,137,107,113,89,97,950,images/950.png,solgaleo,False
+792,Lunala,Psychic  Ghost,680,137,113,89,137,107,97,951,images/951.png,lunala,False
+793,Nihilego,Rock  Poison,570,109,53,47,127,131,103,952,images/952.png,nihilego,False
+794,Buzzwole,Bug  Fighting,570,107,139,139,53,53,79,953,images/953.png,buzzwole,False
+795,Pheromosa,Bug  Fighting,570,71,137,37,137,37,151,954,images/954.png,pheromosa,False
+796,Xurkitree,Electric,570,83,89,71,173,71,83,955,images/955.png,xurkitree,False
+797,Celesteela,Steel  Flying,570,97,101,103,107,101,61,956,images/956.png,celesteela,False
+798,Kartana,Grass  Steel,570,59,181,131,59,31,109,957,images/957.png,kartana,False
+799,Guzzlord,Dark  Dragon,570,223,101,53,97,53,43,958,images/958.png,guzzlord,False
+800,Necrozma,Psychic,600,97,107,101,127,89,79,959,images/959.png,necrozma,False
+800,Necrozma  Dusk Mane Necrozma,Psychic  Steel,680,97,157,127,113,109,77,960,images/960.png,necrozma-dusk-mane-necrozma,False
+800,Necrozma  Dawn Wings Necrozma,Psychic  Ghost,680,97,113,109,157,127,77,961,images/961.png,necrozma-dawn-wings-necrozma,False
+800,Necrozma  Ultra Necrozma,Psychic  Dragon,754,97,167,97,167,97,129,962,images/962.png,necrozma-ultra-necrozma,False
+801,Magearna,Steel  Fairy,600,80,95,115,130,115,65,963,images/963.png,magearna,False
+802,Marshadow,Fighting  Ghost,600,90,125,80,90,90,125,964,images/964.png,marshadow,False
+803,Poipole,Poison,420,67,73,67,73,67,73,965,images/965.png,poipole,False
+804,Naganadel,Poison  Dragon,540,73,73,73,127,73,121,966,images/966.png,naganadel,False
+805,Stakataka,Rock  Steel,570,61,131,211,53,101,13,967,images/967.png,stakataka,False
+806,Blacephalon,Fire  Ghost,570,53,127,53,151,79,107,968,images/968.png,blacephalon,False
+807,Zeraora,Electric,600,88,112,75,102,80,143,969,images/969.png,zeraora,False
+808,Meltan,Steel,300,46,65,65,55,35,34,970,images/970.png,meltan,False
+809,Melmetal,Steel,600,135,143,143,80,65,34,971,images/971.png,melmetal,False
+810,Grookey,Grass,310,50,65,50,40,40,65,972,images/972.png,grookey,False
+811,Thwackey,Grass,420,70,85,70,55,60,80,973,images/973.png,thwackey,False
+812,Rillaboom,Grass,530,100,125,90,60,70,85,974,images/974.png,rillaboom,False
+813,Scorbunny,Fire,310,50,71,40,40,40,69,975,images/975.png,scorbunny,False
+814,Raboot,Fire,420,65,86,60,55,60,94,976,images/976.png,raboot,False
+815,Cinderace,Fire,530,80,116,75,65,75,119,977,images/977.png,cinderace,False
+816,Sobble,Water,310,50,40,40,70,40,70,978,images/978.png,sobble,False
+817,Drizzile,Water,420,65,60,55,95,55,90,979,images/979.png,drizzile,False
+818,Inteleon,Water,530,70,85,65,125,65,120,980,images/980.png,inteleon,False
+819,Skwovet,Normal,275,70,55,55,35,35,25,981,images/981.png,skwovet,False
+820,Greedent,Normal,460,120,95,95,55,75,20,982,images/982.png,greedent,False
+821,Rookidee,Flying,245,38,47,35,33,35,57,983,images/983.png,rookidee,False
+822,Corvisquire,Flying,365,68,67,55,43,55,77,984,images/984.png,corvisquire,False
+823,Corviknight,Flying  Steel,495,98,87,105,53,85,67,985,images/985.png,corviknight,False
+824,Blipbug,Bug,180,25,20,20,25,45,45,986,images/986.png,blipbug,False
+825,Dottler,Bug  Psychic,335,50,35,80,50,90,30,987,images/987.png,dottler,False
+826,Orbeetle,Bug  Psychic,505,60,45,110,80,120,90,988,images/988.png,orbeetle,False
+827,Nickit,Dark,245,40,28,28,47,52,50,989,images/989.png,nickit,False
+828,Thievul,Dark,455,70,58,58,87,92,90,990,images/990.png,thievul,False
+829,Gossifleur,Grass,250,40,40,60,40,60,10,991,images/991.png,gossifleur,False
+830,Eldegoss,Grass,460,60,50,90,80,120,60,992,images/992.png,eldegoss,False
+831,Wooloo,Normal,270,42,40,55,40,45,48,993,images/993.png,wooloo,False
+832,Dubwool,Normal,490,72,80,100,60,90,88,994,images/994.png,dubwool,False
+833,Chewtle,Water,284,50,64,50,38,38,44,995,images/995.png,chewtle,False
+834,Drednaw,Water  Rock,485,90,115,90,48,68,74,996,images/996.png,drednaw,False
+835,Yamper,Electric,270,59,45,50,40,50,26,997,images/997.png,yamper,False
+836,Boltund,Electric,490,69,90,60,90,60,121,998,images/998.png,boltund,False
+837,Rolycoly,Rock,240,30,40,50,40,50,30,999,images/999.png,rolycoly,False
+838,Carkol,Rock  Fire,410,80,60,90,60,70,50,1000,images/1000.png,carkol,False
+839,Coalossal,Rock  Fire,510,110,80,120,80,90,30,1001,images/1001.png,coalossal,False
+840,Applin,Grass  Dragon,260,40,40,80,40,40,20,1002,images/1002.png,applin,False
+841,Flapple,Grass  Dragon,485,70,110,80,95,60,70,1003,images/1003.png,flapple,False
+842,Appletun,Grass  Dragon,485,110,85,80,100,80,30,1004,images/1004.png,appletun,False
+843,Silicobra,Ground,315,52,57,75,35,50,46,1005,images/1005.png,silicobra,False
+844,Sandaconda,Ground,510,72,107,125,65,70,71,1006,images/1006.png,sandaconda,False
+845,Cramorant,Flying  Water,475,70,85,55,85,95,85,1007,images/1007.png,cramorant,False
+846,Arrokuda,Water,280,41,63,40,40,30,66,1008,images/1008.png,arrokuda,False
+847,Barraskewda,Water,490,61,123,60,60,50,136,1009,images/1009.png,barraskewda,False
+848,Toxel,Electric  Poison,242,40,38,35,54,35,40,1010,images/1010.png,toxel,False
+849,Toxtricity  Amped Form,Electric  Poison,502,75,98,70,114,70,75,1011,images/1011.png,toxtricity-amped-form,False
+849,Toxtricity  Low Key Form,Electric  Poison,502,75,98,70,114,70,75,1012,images/1012.png,toxtricity-low-key-form,False
+850,Sizzlipede,Fire  Bug,305,50,65,45,50,50,45,1013,images/1013.png,sizzlipede,False
+851,Centiskorch,Fire  Bug,525,100,115,65,90,90,65,1014,images/1014.png,centiskorch,False
+852,Clobbopus,Fighting,310,50,68,60,50,50,32,1015,images/1015.png,clobbopus,False
+853,Grapploct,Fighting,480,80,118,90,70,80,42,1016,images/1016.png,grapploct,False
+854,Sinistea,Ghost,308,40,45,45,74,54,50,1017,images/1017.png,sinistea,False
+855,Polteageist,Ghost,508,60,65,65,134,114,70,1018,images/1018.png,polteageist,False
+856,Hatenna,Psychic,265,42,30,45,56,53,39,1019,images/1019.png,hatenna,False
+857,Hattrem,Psychic,370,57,40,65,86,73,49,1020,images/1020.png,hattrem,False
+858,Hatterene,Psychic  Fairy,510,57,90,95,136,103,29,1021,images/1021.png,hatterene,False
+859,Impidimp,Dark  Fairy,265,45,45,30,55,40,50,1022,images/1022.png,impidimp,False
+860,Morgrem,Dark  Fairy,370,65,60,45,75,55,70,1023,images/1023.png,morgrem,False
+861,Grimmsnarl,Dark  Fairy,510,95,120,65,95,75,60,1024,images/1024.png,grimmsnarl,False
+862,Obstagoon,Dark  Normal,520,93,90,101,60,81,95,1025,images/1025.png,obstagoon,False
+863,Perrserker,Steel,440,70,110,100,50,60,50,1026,images/1026.png,perrserker,False
+864,Cursola,Ghost,510,60,95,50,145,130,30,1027,images/1027.png,cursola,False
+865,Sirfetch'd,Fighting,507,62,135,95,68,82,65,1028,images/1028.png,sirfetch-d,False
+866,Mr. Rime,Ice  Psychic,520,80,85,75,110,100,70,1029,images/1029.png,mr-rime,False
+867,Runerigus,Ground  Ghost,483,58,95,145,50,105,30,1030,images/1030.png,runerigus,False
+868,Milcery,Fairy,270,45,40,40,50,61,34,1031,images/1031.png,milcery,False
+869,Alcremie,Fairy,495,65,60,75,110,121,64,1032,images/1032.png,alcremie,False
+870,Falinks,Fighting,470,65,100,100,70,60,75,1033,images/1033.png,falinks,False
+871,Pincurchin,Electric,435,48,101,95,91,85,15,1034,images/1034.png,pincurchin,False
+872,Snom,Ice  Bug,185,30,25,35,45,30,20,1035,images/1035.png,snom,False
+873,Frosmoth,Ice  Bug,475,70,65,60,125,90,65,1036,images/1036.png,frosmoth,False
+874,Stonjourner,Rock,470,100,125,135,20,20,70,1037,images/1037.png,stonjourner,False
+875,Eiscue  Ice Face,Ice,470,75,80,110,65,90,50,1038,images/1038.png,eiscue-ice-face,False
+875,Eiscue  Noice Face,Ice,470,75,80,70,65,50,130,1039,images/1039.png,eiscue-noice-face,False
+876,Indeedee  Male,Psychic  Normal,475,60,65,55,105,95,95,1040,images/1040.png,indeedee-male,False
+876,Indeedee  Female,Psychic  Normal,475,70,55,65,95,105,85,1041,images/1041.png,indeedee-female,False
+877,Morpeko  Full Belly Mode,Electric  Dark,436,58,95,58,70,58,97,1042,images/1042.png,morpeko-full-belly-mode,False
+877,Morpeko  Hangry Mode,Electric  Dark,436,58,95,58,70,58,97,1043,images/1043.png,morpeko-hangry-mode,False
+878,Cufant,Steel,330,72,80,49,40,49,40,1044,images/1044.png,cufant,False
+879,Copperajah,Steel,500,122,130,69,80,69,30,1045,images/1045.png,copperajah,False
+880,Dracozolt,Electric  Dragon,505,90,100,90,80,70,75,1046,images/1046.png,dracozolt,False
+881,Arctozolt,Electric  Ice,505,90,100,90,90,80,55,1047,images/1047.png,arctozolt,False
+882,Dracovish,Water  Dragon,505,90,90,100,70,80,75,1048,images/1048.png,dracovish,False
+883,Arctovish,Water  Ice,505,90,90,100,80,90,55,1049,images/1049.png,arctovish,False
+884,Duraludon,Steel  Dragon,535,70,95,115,120,50,85,1050,images/1050.png,duraludon,False
+885,Dreepy,Dragon  Ghost,270,28,60,30,40,30,82,1051,images/1051.png,dreepy,False
+886,Drakloak,Dragon  Ghost,410,68,80,50,60,50,102,1052,images/1052.png,drakloak,False
+887,Dragapult,Dragon  Ghost,600,88,120,75,100,75,142,1053,images/1053.png,dragapult,False
+888,Zacian  Hero of Many Battles,Fairy,660,92,120,115,80,115,138,1054,images/1054.png,zacian-hero-of-many-battles,False
+888,Zacian  Crowned Sword,Fairy  Steel,700,92,150,115,80,115,148,1055,images/1055.png,zacian-crowned-sword,False
+889,Zamazenta  Hero of Many Battles,Fighting,660,92,120,115,80,115,138,1056,images/1056.png,zamazenta-hero-of-many-battles,False
+889,Zamazenta  Crowned Shield,Fighting  Steel,700,92,120,140,80,140,128,1057,images/1057.png,zamazenta-crowned-shield,False
+890,Eternatus,Poison  Dragon,690,140,85,95,145,95,130,1058,images/1058.png,eternatus,False
+890,Eternatus  Eternamax,Poison  Dragon,1125,255,115,250,125,250,130,1059,images/1059.png,eternatus-eternamax,False
+891,Kubfu,Fighting,385,60,90,60,53,50,72,1060,images/1060.png,kubfu,False
+892,Urshifu  Single Strike Style,Fighting  Dark,550,100,130,100,63,60,97,1061,images/1061.png,urshifu-single-strike-style,False
+892,Urshifu  Rapid Strike Style,Fighting  Water,550,100,130,100,63,60,97,1062,images/1062.png,urshifu-rapid-strike-style,False
+893,Zarude,Dark  Grass,600,105,120,105,70,95,105,1063,images/1063.png,zarude,False
+894,Regieleki,Electric,580,80,100,50,100,50,200,1064,images/1064.png,regieleki,False
+895,Regidrago,Dragon,580,200,100,50,100,50,80,1065,images/1065.png,regidrago,False
+896,Glastrier,Ice,580,100,145,130,65,110,30,1066,images/1066.png,glastrier,False
+897,Spectrier,Ghost,580,100,65,60,145,80,130,1067,images/1067.png,spectrier,False
+898,Calyrex,Psychic  Grass,500,100,80,80,80,80,80,1068,images/1068.png,calyrex,False
+898,Calyrex  Ice Rider,Psychic  Ice,680,100,165,150,85,130,50,1069,images/1069.png,calyrex-ice-rider,False
+898,Calyrex  Shadow Rider,Psychic  Ghost,680,100,85,80,165,100,150,1070,images/1070.png,calyrex-shadow-rider,False
+899,Wyrdeer,Normal  Psychic,525,103,105,72,105,75,65,1071,images/1071.png,wyrdeer,False
+900,Kleavor,Bug  Rock,500,70,135,95,45,70,85,1072,images/1072.png,kleavor,False
+901,Ursaluna,Ground  Normal,550,130,140,105,45,80,50,1073,images/1073.png,ursaluna,False
+901,Ursaluna  Bloodmoon,Ground  Normal,555,113,70,120,135,65,52,1074,images/1074.png,ursaluna-bloodmoon,False
+902,Basculegion  Male,Water  Ghost,530,120,112,65,80,75,78,1075,images/1075.png,basculegion-male,False
+902,Basculegion  Female,Water  Ghost,530,120,92,65,100,75,78,1076,images/1076.png,basculegion-female,False
+903,Sneasler,Fighting  Poison,510,80,130,60,40,80,120,1077,images/1077.png,sneasler,False
+904,Overqwil,Dark  Poison,510,85,115,95,65,65,85,1078,images/1078.png,overqwil,False
+905,Enamorus  Incarnate Forme,Fairy  Flying,580,74,115,70,135,80,106,1079,images/1079.png,enamorus-incarnate-forme,False
+905,Enamorus  Therian Forme,Fairy  Flying,580,74,115,110,135,100,46,1080,images/1080.png,enamorus-therian-forme,False
+906,Sprigatito,Grass,310,40,61,54,45,45,65,1081,images/1081.png,sprigatito,False
+907,Floragato,Grass,410,61,80,63,60,63,83,1082,images/1082.png,floragato,False
+908,Meowscarada,Grass  Dark,530,76,110,70,81,70,123,1083,images/1083.png,meowscarada,False
+909,Fuecoco,Fire,310,67,45,59,63,40,36,1084,images/1084.png,fuecoco,False
+910,Crocalor,Fire,411,81,55,78,90,58,49,1085,images/1085.png,crocalor,False
+911,Skeledirge,Fire  Ghost,530,104,75,100,110,75,66,1086,images/1086.png,skeledirge,False
+912,Quaxly,Water,310,55,65,45,50,45,50,1087,images/1087.png,quaxly,False
+913,Quaxwell,Water,410,70,85,65,65,60,65,1088,images/1088.png,quaxwell,False
+914,Quaquaval,Water  Fighting,530,85,120,80,85,75,85,1089,images/1089.png,quaquaval,False
+915,Lechonk,Normal,254,54,45,40,35,45,35,1090,images/1090.png,lechonk,False
+916,Oinkologne  Male,Normal,489,110,100,75,59,80,65,1091,images/1091.png,oinkologne-male,False
+916,Oinkologne  Female,Normal,489,115,90,70,59,90,65,1092,images/1092.png,oinkologne-female,False
+917,Tarountula,Bug,210,35,41,45,29,40,20,1093,images/1093.png,tarountula,False
+918,Spidops,Bug,404,60,79,92,52,86,35,1094,images/1094.png,spidops,False
+919,Nymble,Bug,210,33,46,40,21,25,45,1095,images/1095.png,nymble,False
+920,Lokix,Bug  Dark,450,71,102,78,52,55,92,1096,images/1096.png,lokix,False
+921,Pawmi,Electric,240,45,50,20,40,25,60,1097,images/1097.png,pawmi,False
+922,Pawmo,Electric  Fighting,350,60,75,40,50,40,85,1098,images/1098.png,pawmo,False
+923,Pawmot,Electric  Fighting,490,70,115,70,70,60,105,1099,images/1099.png,pawmot,False
+924,Tandemaus,Normal,305,50,50,45,40,45,75,1100,images/1100.png,tandemaus,False
+925,Maushold  Family of Four,Normal,470,74,75,70,65,75,111,1101,images/1101.png,maushold-family-of-four,False
+925,Maushold  Family of Three,Normal,470,74,75,70,65,75,111,1102,images/1102.png,maushold-family-of-three,False
+926,Fidough,Fairy,312,37,55,70,30,55,65,1103,images/1103.png,fidough,False
+927,Dachsbun,Fairy,477,57,80,115,50,80,95,1104,images/1104.png,dachsbun,False
+928,Smoliv,Grass  Normal,260,41,35,45,58,51,30,1105,images/1105.png,smoliv,False
+929,Dolliv,Grass  Normal,354,52,53,60,78,78,33,1106,images/1106.png,dolliv,False
+930,Arboliva,Grass  Normal,510,78,69,90,125,109,39,1107,images/1107.png,arboliva,False
+931,Squawkabilly  Green Plumage,Normal  Flying,417,82,96,51,45,51,92,1108,images/1108.png,squawkabilly-green-plumage,False
+931,Squawkabilly  Blue Plumage,Normal  Flying,417,82,96,51,45,51,92,1109,images/1109.png,squawkabilly-blue-plumage,False
+931,Squawkabilly  Yellow Plumage,Normal  Flying,417,82,96,51,45,51,92,1110,images/1110.png,squawkabilly-yellow-plumage,False
+931,Squawkabilly  White Plumage,Normal  Flying,417,82,96,51,45,51,92,1111,images/1111.png,squawkabilly-white-plumage,False
+932,Nacli,Rock,280,55,55,75,35,35,25,1112,images/1112.png,nacli,False
+933,Naclstack,Rock,355,60,60,100,35,65,35,1113,images/1113.png,naclstack,False
+934,Garganacl,Rock,500,100,100,130,45,90,35,1114,images/1114.png,garganacl,False
+935,Charcadet,Fire,255,40,50,40,50,40,35,1115,images/1115.png,charcadet,False
+936,Armarouge,Fire  Psychic,525,85,60,100,125,80,75,1116,images/1116.png,armarouge,False
+937,Ceruledge,Fire  Ghost,525,75,125,80,60,100,85,1117,images/1117.png,ceruledge,False
+938,Tadbulb,Electric,272,61,31,41,59,35,45,1118,images/1118.png,tadbulb,False
+939,Bellibolt,Electric,495,109,64,91,103,83,45,1119,images/1119.png,bellibolt,False
+940,Wattrel,Electric  Flying,280,40,40,35,55,40,70,1120,images/1120.png,wattrel,False
+941,Kilowattrel,Electric  Flying,490,70,70,60,105,60,125,1121,images/1121.png,kilowattrel,False
+942,Maschiff,Dark,340,60,78,60,40,51,51,1122,images/1122.png,maschiff,False
+943,Mabosstiff,Dark,505,80,120,90,60,70,85,1123,images/1123.png,mabosstiff,False
+944,Shroodle,Poison  Normal,290,40,65,35,40,35,75,1124,images/1124.png,shroodle,False
+945,Grafaiai,Poison  Normal,485,63,95,65,80,72,110,1125,images/1125.png,grafaiai,False
+946,Bramblin,Grass  Ghost,275,40,65,30,45,35,60,1126,images/1126.png,bramblin,False
+947,Brambleghast,Grass  Ghost,480,55,115,70,80,70,90,1127,images/1127.png,brambleghast,False
+948,Toedscool,Ground  Grass,335,40,40,35,50,100,70,1128,images/1128.png,toedscool,False
+949,Toedscruel,Ground  Grass,515,80,70,65,80,120,100,1129,images/1129.png,toedscruel,False
+950,Klawf,Rock,450,70,100,115,35,55,75,1130,images/1130.png,klawf,False
+951,Capsakid,Grass,304,50,62,40,62,40,50,1131,images/1131.png,capsakid,False
+952,Scovillain,Grass  Fire,486,65,108,65,108,65,75,1132,images/1132.png,scovillain,False
+953,Rellor,Bug,270,41,50,60,31,58,30,1133,images/1133.png,rellor,False
+954,Rabsca,Bug  Psychic,470,75,50,85,115,100,45,1134,images/1134.png,rabsca,False
+955,Flittle,Psychic,255,30,35,30,55,30,75,1135,images/1135.png,flittle,False
+956,Espathra,Psychic,481,95,60,60,101,60,105,1136,images/1136.png,espathra,False
+957,Tinkatink,Fairy  Steel,297,50,45,45,35,64,58,1137,images/1137.png,tinkatink,False
+958,Tinkatuff,Fairy  Steel,380,65,55,55,45,82,78,1138,images/1138.png,tinkatuff,False
+959,Tinkaton,Fairy  Steel,506,85,75,77,70,105,94,1139,images/1139.png,tinkaton,False
+960,Wiglett,Water,245,10,55,25,35,25,95,1140,images/1140.png,wiglett,False
+961,Wugtrio,Water,425,35,100,50,50,70,120,1141,images/1141.png,wugtrio,False
+962,Bombirdier,Flying  Dark,485,70,103,85,60,85,82,1142,images/1142.png,bombirdier,False
+963,Finizen,Water,315,70,45,40,45,40,75,1143,images/1143.png,finizen,False
+964,Palafin  Zero Form,Water,457,100,70,72,53,62,100,1144,images/1144.png,palafin-zero-form,False
+964,Palafin  Hero Form,Water,650,100,160,97,106,87,100,1145,images/1145.png,palafin-hero-form,False
+965,Varoom,Steel  Poison,300,45,70,63,30,45,47,1146,images/1146.png,varoom,False
+966,Revavroom,Steel  Poison,500,80,119,90,54,67,90,1147,images/1147.png,revavroom,False
+967,Cyclizar,Dragon  Normal,501,70,95,65,85,65,121,1148,images/1148.png,cyclizar,False
+968,Orthworm,Steel,480,70,85,145,60,55,65,1149,images/1149.png,orthworm,False
+969,Glimmet,Rock  Poison,350,48,35,42,105,60,60,1150,images/1150.png,glimmet,False
+970,Glimmora,Rock  Poison,525,83,55,90,130,81,86,1151,images/1151.png,glimmora,False
+971,Greavard,Ghost,290,50,61,60,30,55,34,1152,images/1152.png,greavard,False
+972,Houndstone,Ghost,488,72,101,100,50,97,68,1153,images/1153.png,houndstone,False
+973,Flamigo,Flying  Fighting,500,82,115,74,75,64,90,1154,images/1154.png,flamigo,False
+974,Cetoddle,Ice,334,108,68,45,30,40,43,1155,images/1155.png,cetoddle,False
+975,Cetitan,Ice,521,170,113,65,45,55,73,1156,images/1156.png,cetitan,False
+976,Veluza,Water  Psychic,478,90,102,73,78,65,70,1157,images/1157.png,veluza,False
+977,Dondozo,Water,530,150,100,115,65,65,35,1158,images/1158.png,dondozo,False
+978,Tatsugiri  Curly Form,Dragon  Water,475,68,50,60,120,95,82,1159,images/1159.png,tatsugiri-curly-form,False
+978,Tatsugiri  Droopy Form,Dragon  Water,475,68,50,60,120,95,82,1160,images/1160.png,tatsugiri-droopy-form,False
+978,Tatsugiri  Stretchy Form,Dragon  Water,475,68,50,60,120,95,82,1161,images/1161.png,tatsugiri-stretchy-form,False
+979,Annihilape,Fighting  Ghost,535,110,115,80,50,90,90,1162,images/1162.png,annihilape,False
+980,Clodsire,Poison  Ground,430,130,75,60,45,100,20,1163,images/1163.png,clodsire,False
+981,Farigiraf,Normal  Psychic,520,120,90,70,110,70,60,1164,images/1164.png,farigiraf,False
+982,Dudunsparce  Two-Segment Form,Normal,520,125,100,80,85,75,55,1165,images/1165.png,dudunsparce-two-segment-form,False
+982,Dudunsparce  Three-Segment Form,Normal,520,125,100,80,85,75,55,1166,images/1166.png,dudunsparce-three-segment-form,False
+983,Kingambit,Dark  Steel,550,100,135,120,60,85,50,1167,images/1167.png,kingambit,False
+984,Great Tusk,Ground  Fighting,570,115,131,131,53,53,87,1168,images/1168.png,great-tusk,False
+985,Scream Tail,Fairy  Psychic,570,115,65,99,65,115,111,1169,images/1169.png,scream-tail,False
+986,Brute Bonnet,Grass  Dark,570,111,127,99,79,99,55,1170,images/1170.png,brute-bonnet,False
+987,Flutter Mane,Ghost  Fairy,570,55,55,55,135,135,135,1171,images/1171.png,flutter-mane,False
+988,Slither Wing,Bug  Fighting,570,85,135,79,85,105,81,1172,images/1172.png,slither-wing,False
+989,Sandy Shocks,Electric  Ground,570,85,81,97,121,85,101,1173,images/1173.png,sandy-shocks,False
+990,Iron Treads,Ground  Steel,570,90,112,120,72,70,106,1174,images/1174.png,iron-treads,False
+991,Iron Bundle,Ice  Water,570,56,80,114,124,60,136,1175,images/1175.png,iron-bundle,False
+992,Iron Hands,Fighting  Electric,570,154,140,108,50,68,50,1176,images/1176.png,iron-hands,False
+993,Iron Jugulis,Dark  Flying,570,94,80,86,122,80,108,1177,images/1177.png,iron-jugulis,False
+994,Iron Moth,Fire  Poison,570,80,70,60,140,110,110,1178,images/1178.png,iron-moth,False
+995,Iron Thorns,Rock  Electric,570,100,134,110,70,84,72,1179,images/1179.png,iron-thorns,False
+996,Frigibax,Dragon  Ice,320,65,75,45,35,45,55,1180,images/1180.png,frigibax,False
+997,Arctibax,Dragon  Ice,423,90,95,66,45,65,62,1181,images/1181.png,arctibax,False
+998,Baxcalibur,Dragon  Ice,600,115,145,92,75,86,87,1182,images/1182.png,baxcalibur,False
+999,Gimmighoul  Chest Form,Ghost,300,45,30,70,75,70,10,1183,images/1183.png,gimmighoul-chest-form,False
+999,Gimmighoul  Roaming Form,Ghost,300,45,30,25,75,45,80,1184,images/1184.png,gimmighoul-roaming-form,False
+1000,Gholdengo,Steel  Ghost,550,87,60,95,133,91,84,1185,images/1185.png,gholdengo,False
+1001,Wo-Chien,Dark  Grass,570,85,85,100,95,135,70,1186,images/1186.png,wo-chien,False
+1002,Chien-Pao,Dark  Ice,570,80,120,80,90,65,135,1187,images/1187.png,chien-pao,False
+1003,Ting-Lu,Dark  Ground,570,155,110,125,55,80,45,1188,images/1188.png,ting-lu,False
+1004,Chi-Yu,Dark  Fire,570,55,80,80,135,120,100,1189,images/1189.png,chi-yu,False
+1005,Roaring Moon,Dragon  Dark,590,105,139,71,55,101,119,1190,images/1190.png,roaring-moon,False
+1006,Iron Valiant,Fairy  Fighting,590,74,130,90,120,60,116,1191,images/1191.png,iron-valiant,False
+1007,Koraidon,Fighting  Dragon,670,100,135,115,85,100,135,1192,images/1192.png,koraidon,False
+1008,Miraidon,Electric  Dragon,670,100,85,100,135,115,135,1193,images/1193.png,miraidon,False
+1009,Walking Wake,Water  Dragon,590,99,83,91,125,83,109,1194,images/1194.png,walking-wake,False
+1010,Iron Leaves,Grass  Psychic,590,90,130,88,70,108,104,1195,images/1195.png,iron-leaves,False
+1011,Dipplin,Grass  Dragon,485,80,80,110,95,80,40,1196,images/1196.png,dipplin,False
+1012,Poltchageist,Grass  Ghost,308,40,45,45,74,54,50,1197,images/1197.png,poltchageist,False
+1013,Sinistcha,Grass  Ghost,508,71,60,106,121,80,70,1198,images/1198.png,sinistcha,False
+1014,Okidogi,Poison  Fighting,555,88,128,115,58,86,80,1199,images/1199.png,okidogi,False
+1015,Munkidori,Poison  Psychic,555,88,75,66,130,90,106,1200,images/1200.png,munkidori,False
+1016,Fezandipiti,Poison  Fairy,555,88,91,82,70,125,99,1201,images/1201.png,fezandipiti,False
+1017,Ogerpon  Teal Mask,Grass,550,80,120,84,60,96,110,1202,images/1202.png,ogerpon-teal-mask,False
+1017,Ogerpon  Wellspring Mask,Grass  Water,550,80,120,84,60,96,110,1203,images/1203.png,ogerpon-wellspring-mask,False
+1017,Ogerpon  Hearthflame Mask,Grass  Fire,550,80,120,84,60,96,110,1204,images/1204.png,ogerpon-hearthflame-mask,False
+1017,Ogerpon  Cornerstone Mask,Grass  Rock,550,80,120,84,60,96,110,1205,images/1205.png,ogerpon-cornerstone-mask,False
+1018,Archaludon,Steel  Dragon,600,90,105,130,125,65,85,1206,images/1206.png,archaludon,False
+1019,Hydrapple,Grass  Dragon,540,106,80,110,120,80,44,1207,images/1207.png,hydrapple,False
+1020,Gouging Fire,Fire  Dragon,590,105,115,121,65,93,91,1208,images/1208.png,gouging-fire,False
+1021,Raging Bolt,Electric  Dragon,590,125,73,91,137,89,75,1209,images/1209.png,raging-bolt,False
+1022,Iron Boulder,Rock  Psychic,590,90,120,80,68,108,124,1210,images/1210.png,iron-boulder,False
+1023,Iron Crown,Steel  Psychic,590,90,72,100,122,108,98,1211,images/1211.png,iron-crown,False
+1024,Terapagos  Normal Form,Normal,450,90,65,85,65,85,60,1212,images/1212.png,terapagos-normal-form,False
+1024,Terapagos  Terastal Form,Normal,600,95,95,110,105,110,85,1213,images/1213.png,terapagos-terastal-form,False
+1024,Terapagos  Stellar Form,Normal,700,160,105,110,130,110,85,1214,images/1214.png,terapagos-stellar-form,False
+1025,Pecharunt,Poison  Ghost,600,88,88,160,88,88,88,1215,images/1215.png,pecharunt,False

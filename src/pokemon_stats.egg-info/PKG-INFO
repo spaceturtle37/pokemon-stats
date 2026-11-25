@@ -13,6 +13,7 @@ Requires-Dist: seaborn
 Requires-Dist: graphviz
 Requires-Dist: networkx
 Requires-Dist: plotly
+Requires-Dist: lxml
 Dynamic: license-file
 
 <p align="center">

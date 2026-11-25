@@ -1,0 +1,542 @@
+
+/* =========================================
+   POKEMON STATS — STAT LAB
+   Main stylesheet
+========================================= */
+
+:root {
+    --bg: #0c1422;
+    --panel: #152338;
+    --panel-light: #1b2c42;
+
+    --line: #29394f;
+
+    --text: #f1f5fb;
+    --muted: #9aabc0;
+    --soft: #71839a;
+
+    --cyan: #65d6d1;
+    --yellow: #f5d66f;
+
+    --radius: 16px;
+}
+
+/* =========================================
+   GLOBAL
+========================================= */
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background:
+        radial-gradient(
+            ellipse at 78% 5%,
+            #1b3150 0,
+            transparent 34%
+        ),
+        var(--bg);
+
+    color: var(--text);
+
+    font-family:
+        "Manrope",
+        "Segoe UI",
+        sans-serif;
+
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+.app-shell {
+    max-width: 1440px;
+    margin: auto;
+    padding: 0 42px;
+}
+
+/* =========================================
+   HEADER
+========================================= */
+
+.topbar {
+    height: 78px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    border-bottom: 1px solid #ffffff12;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 11px;
+
+    color: var(--text);
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1.6px;
+
+    text-decoration: none;
+}
+
+.brand strong {
+    color: var(--cyan);
+}
+
+.brand-icon {
+    width: 32px;
+    height: 32px;
+
+    display: grid;
+    place-items: center;
+
+    border-radius: 11px;
+
+    background: linear-gradient(
+        135deg,
+        #67d9d0,
+        #438fba
+    );
+
+    color: #0c1a29;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.topbar nav {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+
+    height: 100%;
+}
+
+.topbar nav a {
+    display: grid;
+    place-items: center;
+
+    height: 100%;
+
+    color: var(--muted);
+    font-size: 13px;
+    font-weight: 700;
+
+    text-decoration: none;
+}
+
+.topbar nav a.active {
+    color: var(--cyan);
+    border-bottom: 2px solid var(--cyan);
+}
+
+.top-tag {
+    color: var(--muted);
+
+    font-size: 10px;
+    letter-spacing: 1.3px;
+}
+
+/* =========================================
+   HERO
+========================================= */
+
+.hero {
+    padding: 48px 4px 42px;
+}
+
+.eyebrow {
+    margin: 0 0 10px;
+
+    color: var(--cyan);
+
+    font-family: monospace;
+    font-size: 10px;
+    letter-spacing: 1.7px;
+}
+
+.hero h1 {
+    margin: 0;
+
+    font-size: clamp(34px, 4.5vw, 55px);
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -2.4px;
+}
+
+.hero h1 span {
+    color: var(--yellow);
+}
+
+.hero > p:last-child {
+    max-width: 570px;
+
+    margin-top: 16px;
+
+    color: var(--muted);
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+/* =========================================
+   METRICS
+========================================= */
+
+.metrics {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 13px;
+
+    margin: 6px 0 22px;
+}
+
+.metric-card {
+    min-height: 105px;
+
+    padding: 17px 19px;
+
+    background: linear-gradient(
+        145deg,
+        #18283b,
+        #121e2e
+    );
+
+    border: 1px solid var(--line);
+    border-radius: 14px;
+}
+
+.metric-card span {
+    display: block;
+
+    color: var(--soft);
+
+    font-family: monospace;
+    font-size: 9px;
+    letter-spacing: 1.2px;
+}
+
+.metric-card strong {
+    display: block;
+
+    margin-top: 5px;
+
+    font-size: 27px;
+    letter-spacing: -1px;
+}
+
+/* =========================================
+   WORKSPACE
+========================================= */
+
+.workspace {
+    display: grid;
+
+    grid-template-columns: 270px minmax(0, 1fr);
+    gap: 16px;
+
+    align-items: stretch;
+}
+
+.control-panel,
+.chart-panel {
+    background: linear-gradient(
+        145deg,
+        #152338,
+        #111d2d
+    );
+
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+}
+
+/* =========================================
+   CONTROL PANEL
+========================================= */
+
+.control-panel {
+    padding: 20px 19px;
+}
+
+.control-panel h2,
+.chart-panel h2 {
+    margin: 0;
+
+    font-size: 18px;
+    letter-spacing: -0.5px;
+}
+
+.control-group {
+    margin-top: 19px;
+}
+
+.control-group label {
+    display: block;
+
+    margin-bottom: 8px;
+
+    color: #c5d0de;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.control-group select,
+.control-group input[type="search"] {
+    width: 100%;
+    height: 37px;
+
+    padding: 0 10px;
+
+    background: #0e1928;
+
+    border: 1px solid #34475e;
+    border-radius: 8px;
+
+    color: var(--text);
+    font-family: inherit;
+    font-size: 11px;
+
+    outline: none;
+}
+
+.control-group select:focus,
+.control-group input:focus {
+    border-color: var(--cyan);
+}
+
+.control-group input[type="range"] {
+    width: 100%;
+
+    accent-color: var(--cyan);
+    cursor: pointer;
+}
+
+.control-group output {
+    display: block;
+
+    margin-top: 4px;
+
+    color: var(--yellow);
+    font-family: monospace;
+    font-size: 10px;
+}
+
+#reset-button {
+    width: 100%;
+
+    margin-top: 22px;
+    padding: 10px;
+
+    background: #29485a;
+
+    border: 1px solid #426a7c;
+    border-radius: 8px;
+
+    color: var(--cyan);
+    font-family: inherit;
+    font-size: 11px;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    transition: background 0.2s;
+}
+
+#reset-button:hover {
+    background: #355c70;
+}
+
+/* =========================================
+   CHART PANEL
+========================================= */
+
+.chart-panel {
+    min-width: 0;
+    padding: 20px;
+}
+
+.chart-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-bottom: 7px;
+}
+
+.chart-heading .eyebrow {
+    margin-bottom: 5px;
+}
+
+.live-tag {
+    color: var(--cyan);
+    font-family: monospace;
+    font-size: 10px;
+    letter-spacing: 1px;
+}
+
+#chart {
+    position: relative;
+    display: block;
+
+    width: 100%;
+    height: 490px;
+    min-width: 0;
+
+    color: var(--muted);
+}
+
+.chart-panel {
+    min-width: 0;
+    overflow: hidden;
+}
+
+.workspace {
+    min-width: 0;
+}
+
+.chart-caption {
+    margin: 0;
+    padding-top: 11px;
+
+    border-top: 1px solid var(--line);
+
+    color: var(--soft);
+    font-size: 10px;
+}
+
+/* =========================================
+   ABOUT
+========================================= */
+
+.about {
+    margin-top: 35px;
+    padding: 25px 2px 35px;
+
+    border-top: 1px solid var(--line);
+}
+
+.about h2 {
+    font-size: 19px;
+}
+
+.about p {
+    max-width: 700px;
+
+    color: var(--muted);
+    line-height: 1.8;
+}
+
+.about a {
+    color: var(--cyan);
+    font-size: 12px;
+
+    text-decoration: none;
+}
+
+.about a:hover {
+    text-decoration: underline;
+}
+
+/* =========================================
+   FOOTER
+========================================= */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 19px 0 26px;
+
+    border-top: 1px solid #ffffff12;
+
+    color: var(--soft);
+
+    font-family: monospace;
+    font-size: 9px;
+    letter-spacing: 0.8px;
+}
+
+/* =========================================
+   RESPONSIVE LAYOUT
+========================================= */
+
+@media (max-width: 900px) {
+    .app-shell {
+        padding: 0 22px;
+    }
+
+    .workspace {
+        grid-template-columns: 1fr;
+    }
+
+    .metrics {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .control-panel {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0 15px;
+    }
+
+    .control-panel h2 {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-width: 550px) {
+    .app-shell {
+        padding: 0 14px;
+    }
+
+    .top-tag {
+        display: none;
+    }
+
+    .topbar nav {
+        gap: 15px;
+    }
+
+    .hero {
+        padding: 35px 2px;
+    }
+
+    .hero h1 {
+        font-size: 36px;
+    }
+
+    .metrics {
+        gap: 8px;
+    }
+
+    .metric-card {
+        padding: 13px;
+    }
+
+    .metric-card strong {
+        font-size: 22px;
+    }
+
+    .control-panel {
+        display: block;
+    }
+
+    .chart-panel {
+        padding: 13px;
+    }
+
+    #chart {
+        height: 380px;
+    }
+
+    footer {
+        flex-direction: column;
+        gap: 8px;
+    }
+}
